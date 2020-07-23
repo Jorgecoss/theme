@@ -1,4 +1,0 @@
-<?php foreach ($block->getAmpParams() as $key => $value): ?>
-	<?php if (!trim($value)) continue; ?>
-	<meta property="og:<?= $block->escapeHtml($key) ?>" content="<?= $block->escapeHtml($value) ?>"/>
-<?php endforeach ?>
