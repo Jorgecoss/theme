@@ -1,0 +1,654 @@
+<page>
+	<section>
+		<name><![CDATA[block233]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[intro-slider v-simple]]></class>
+		<background><![CDATA[#4f5356]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<no_padding><![CDATA[1]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[0]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block234]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[6,6]]></block_cols>
+		<tablet_cols><![CDATA[["6","6"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["",""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[50]]></padding_top>
+		<padding_bottom><![CDATA[30]]></padding_bottom>
+		<block_position><![CDATA[1]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block235]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[product-bg-lighter]]></class>
+		<background><![CDATA[#fafafa]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[50]]></padding_top>
+		<padding_bottom><![CDATA[50]]></padding_bottom>
+		<block_position><![CDATA[2]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block236]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[4,4,4]]></block_cols>
+		<tablet_cols><![CDATA[["6","12","6"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["col-sm-6","order-last-tb order-last-mb","col-sm-6"]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[28]]></padding_top>
+		<padding_bottom><![CDATA[0]]></padding_bottom>
+		<block_position><![CDATA[4]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block237]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[3,3,3,3]]></block_cols>
+		<tablet_cols><![CDATA[["6","6","6","6"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12","12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["col-sm-6 banner-service","col-sm-6 banner-service","col-sm-6 banner-service","col-sm-6 banner-service"]]]></block_class>
+		<class><![CDATA[icon-boxes  icon-boxes-sm]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[5]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block250]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[50]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[3]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block251]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[]]></tablet_cols>
+		<mobile_cols><![CDATA[]]></mobile_cols>
+		<block_class><![CDATA[]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[6]]></block_position>
+	</section>
+	<block>
+		<child_id><![CDATA[671]]></child_id>
+		<block_name><![CDATA[block233-0]]></block_name>
+		<type><![CDATA[owl_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"block_link":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","removeimg":["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],"html_slider":"266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-center262333346368616e67653b class=262333346368616e67653bitem text-align-center262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b style=262333346368616e67653bbackground-image:url(https:\/\/themes.magesolution.com\/molla\/pub\/media\/wysiwyg\/slider\/slide-1erreww.jpg)262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttps:\/\/themes.magesolution.com\/molla\/pub\/media\/wysiwyg\/slider\/slide-1erreww.jpg262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bintro-content text-center262333346368616e67653b2667746368616e67653b266c746368616e67653bh3 class=262333346368616e67653bintro-subtitle text-white262333346368616e67653b2667746368616e67653bSEASONAL PICKS266c746368616e67653b\/h32667746368616e67653b266c746368616e67653bh1 class=262333346368616e67653bintro-title text-white262333346368616e67653b2667746368616e67653bGet All The Good Stuff266c746368616e67653b\/h12667746368616e67653b 266c746368616e67653ba href=262333346368616e67653bcategory.html262333346368616e67653b class=262333346368616e67653bbtn text-white icon-right btn-outline-white bg-primary-hover262333346368616e67653b2667746368616e67653bDISCOVER MORE266c746368616e67653b\/a2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b","items":"1","items_tablet":"1","items_mobile":"1","preload":"1","height_preload":"","slide_margin":"","fullheight":"1","speed":"","navigation_position":"middle-inside","nav_top":"-55","pagination_position":"center","autoplay":0,"stop_auto":0,"navigation":0,"pagination":0,"loop":0,"rtl":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\OwlCarousel" autoplay="0" stop_auto="0" navigation="0" hide_nav="0" nav_top="-55" navigation_position="middle-inside" pagination_position="center" fullheight="1" preload="1"height_preload="" pagination="0" loop="0" rtl="0" speed="" items="1" items_tablet="1" items_mobile="1" slide_margin="" html_slider="266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-center262333346368616e67653b class=262333346368616e67653bitem text-align-center262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b style=262333346368616e67653bbackground-image:url(https://themes.magesolution.com/molla/pub/media/wysiwyg/slider/slide-1erreww.jpg)262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttps://themes.magesolution.com/molla/pub/media/wysiwyg/slider/slide-1erreww.jpg262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bintro-content text-center262333346368616e67653b2667746368616e67653b266c746368616e67653bh3 class=262333346368616e67653bintro-subtitle text-white262333346368616e67653b2667746368616e67653bSEASONAL PICKS266c746368616e67653b/h32667746368616e67653b266c746368616e67653bh1 class=262333346368616e67653bintro-title text-white262333346368616e67653b2667746368616e67653bGet All The Good Stuff266c746368616e67653b/h12667746368616e67653b 266c746368616e67653ba href=262333346368616e67653bcategory.html262333346368616e67653b class=262333346368616e67653bbtn text-white icon-right btn-outline-white bg-primary-hover262333346368616e67653b2667746368616e67653bDISCOVER MORE266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b" template="widget/owl_slider.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[672]]></child_id>
+		<block_name><![CDATA[block234-0]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20","banner_image":"\/b\/2\/b22anner-1.jpg","url":"","text_content":"<div class=\"banner-content text-center\">\r\n<h3 class=\"banner-title\"><a class=' text-white' href=\"#\">This Week's Most Wanted<\/a><\/h3>\r\n<a href=\"#\" class=\"btn text-white btn-default-dark banner-link bg-primary-hover\">Shop Now<\/a>\r\n<\/div>","button_text":"","text_align":"middle-center","effect":"","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-display banner-link-anim banner-title-hidden]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/2/b22anner-1.jpg" url="" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content text-center262333346368616e67653b2667746368616e67653b
+266c746368616e67653bh3 class=262333346368616e67653bbanner-title262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333396368616e67653b text-white262333396368616e67653b href=262333346368616e67653b#262333346368616e67653b2667746368616e67653bThis Week262333396368616e67653bs Most Wanted266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b class=262333346368616e67653bbtn text-white btn-default-dark banner-link bg-primary-hover262333346368616e67653b2667746368616e67653bShop Now266c746368616e67653b/a2667746368616e67653b
+266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="middle-center" effect="" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[673]]></child_id>
+		<block_name><![CDATA[block234-1]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20","banner_image":"\/b\/a\/bann22er-2.jpg","url":"","text_content":"<div class=\"banner-content text-center\">\r\n<h3 class=\"banner-title\"><a class=' text-white' href=\"#\">Bags by Mood <\/a><\/h3>\r\n<a href=\"#\" class=\"btn text-white btn-default-dark banner-link    bg-primary-hover\">Shop Now<\/a>\r\n<\/div>","button_text":"","text_align":"middle-center","effect":"","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-display banner-link-anim banner-title-hidden]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/a/bann22er-2.jpg" url="" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content text-center262333346368616e67653b2667746368616e67653b
+266c746368616e67653bh3 class=262333346368616e67653bbanner-title262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333396368616e67653b text-white262333396368616e67653b href=262333346368616e67653b#262333346368616e67653b2667746368616e67653bBags by Mood 266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b class=262333346368616e67653bbtn text-white btn-default-dark banner-link    bg-primary-hover262333346368616e67653b2667746368616e67653bShop Now266c746368616e67653b/a2667746368616e67653b
+266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="middle-center" effect="" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[674]]></child_id>
+		<block_name><![CDATA[block234-1]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","banner_image":"\/b\/a\/bann22er-3.jpg","url":"","text_content":"<div class=\"banner-content text-center\">\r\n<h3 class=\"banner-title\"><a class=' text-white' href=\"#\">The Trend Story<\/a><\/h3>\r\n<a href=\"#\" class=\"btn text-white btn-default-dark banner-link  bg-primary-hover\">Shop Now<\/a>\r\n<\/div>","button_text":"","text_align":"middle-center","effect":"","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-display banner-link-anim banner-title-hidden]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/a/bann22er-3.jpg" url="" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content text-center262333346368616e67653b2667746368616e67653b
+266c746368616e67653bh3 class=262333346368616e67653bbanner-title262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333396368616e67653b text-white262333396368616e67653b href=262333346368616e67653b#262333346368616e67653b2667746368616e67653bThe Trend Story266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b class=262333346368616e67653bbtn text-white btn-default-dark banner-link  bg-primary-hover262333346368616e67653b2667746368616e67653bShop Now266c746368616e67653b/a2667746368616e67653b
+266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="middle-center" effect="" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[675]]></child_id>
+		<block_name><![CDATA[block235-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"30"}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="heading text-center heading-sm ">
+<h2 class="title">Recent Arrivals</h2>
+<!-- End .title -->
+<p class="sub-title">Aliquam tincidunt mauris eurisus</p>
+<!-- End .title-desc --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[676]]></child_id>
+		<block_name><![CDATA[block235-0]]></block_name>
+		<type><![CDATA[category_products]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","limit":"10","perrow":"4","perrow_tablet":"3","perrow_mobile":"2","numbercol":"1","percol":"","template":"grid.phtml","use_slider":"1","number_row":"1","navigation_position":"middle-inside","nav_top":"-45","pagination_position":"center","slide_by":"0","slide_margin":"20","category_id":["129"],"tab_style":"style1","tab_align":"left","font_size":"","tab_primary_color":"","tab_secondary_color":"","tab_third_color":"","cate_link":0,"autoplay":0,"stop_auto":0,"rtl":0,"navigation":0,"loop":0,"pagination":0,"use_tabs":0,"tab_ajax":0,"hide_name":0,"hide_review":0,"hide_price":0,"hide_addcart":0,"hide_addwishlist":0,"hide_addcompare":0,"tab_font_bold":0,"tab_italic":0,"tab_uppercase":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[carousel-equal-height]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Products\Category" block_type="catproduct" limit="10" category_ids="129" use_slider="1" cate_link="0" hide_name="0" hide_review="0" hide_price="0" hide_addcart="0" mode="grid.phtml" hide_addwishlist="0" hide_addcompare="0" perrow="4" perrow_tablet="3" perrow_mobile="2" autoplay="0" stop_auto="0" navigation="0" hide_nav="0" nav_top="-45" navigation_position="middle-inside" pagination_position="center" pagination="0" number_row="1" slide_by="0" loop="0" rtl="0" slide_margin="20" template="products/grid.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[681]]></child_id>
+		<block_name><![CDATA[block237-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[weight-regular]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-left icon-box-side"><span class="icon-box-icon text-primary"> <i class="icon-rocket"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title  ">Free Shipping</h3>
+<!-- End .icon-box-title -->
+<p>orders $50 or more</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[682]]></child_id>
+		<block_name><![CDATA[block237-1]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[weight-regular]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-left icon-box-side"><span class="icon-box-icon text-primary"> <i class="icon-rotate-left"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Free Returns</h3>
+<!-- End .icon-box-title -->
+<p>within 30 days</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[683]]></child_id>
+		<block_name><![CDATA[block237-2]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[weight-regular]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-left icon-box-side"><span class="icon-box-icon text-primary"> <i class="icon-info-circle"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Get 20% Off 1 Item</h3>
+<!-- End .icon-box-title -->
+<p>When you sign up</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[684]]></child_id>
+		<block_name><![CDATA[block237-3]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[weight-regular]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-left icon-box-side"><span class="icon-box-icon text-primary"> <i class="icon-life-ring"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title ">We Support</h3>
+<!-- End .icon-box-title -->
+<p>24/7 amazing services</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[685]]></child_id>
+		<block_name><![CDATA[block250-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="heading text-center heading-sm">
+<h2 class="title">Popular Categories</h2>
+<!-- End .title -->
+<p class="title-desc">Vestibulum auctor dapibus neque</p>
+<!-- End .title-desc --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[687]]></child_id>
+		<block_name><![CDATA[block236-0]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20","banner_image":"\/b\/a\/bann2222er-4.jpg","url":"https:\/\/themes.magesolution.com\/molla\/au\/fashion-v.html","text_content":"<div class=\"banner-content text-center\">\r\n<h3 class=\"banner-title \"><a class=\" text-white\" href=\"https:\/\/themes.magesolution.com\/molla\/au\/fashion-v.html\">Accessories<\/a><\/h3>\r\n<h4 class=\"banner-subtitle \"><a class=\"text-white\" href=\"https:\/\/themes.magesolution.com\/molla\/au\/fashion-v.html\">16 Items<\/a><\/h4>\r\n<a href=\"https:\/\/themes.magesolution.com\/molla\/au\/fashion-v.html\" class=\"btn text-white btn-white banner-link bg-primary-hover \">Shop Now<\/a>\r\n<\/div>","button_text":"","text_align":"middle-center","effect":"","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-display banner-link-anim]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/a/bann2222er-4.jpg" url="https://themes.magesolution.com/molla/au/fashion-v.html" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content text-center262333346368616e67653b2667746368616e67653b
+266c746368616e67653bh3 class=262333346368616e67653bbanner-title 262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653b text-white262333346368616e67653b href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/fashion-v.html262333346368616e67653b2667746368616e67653bAccessories266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b
+266c746368616e67653bh4 class=262333346368616e67653bbanner-subtitle 262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653btext-white262333346368616e67653b href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/fashion-v.html262333346368616e67653b2667746368616e67653b16 Items266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h42667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/fashion-v.html262333346368616e67653b class=262333346368616e67653bbtn text-white btn-white banner-link bg-primary-hover 262333346368616e67653b2667746368616e67653bShop Now266c746368616e67653b/a2667746368616e67653b
+266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="middle-center" effect="" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[688]]></child_id>
+		<block_name><![CDATA[block236-1]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20","banner_image":"\/b\/a\/banne222r-6.jpg","url":"https:\/\/themes.magesolution.com\/molla\/au\/fashion\/clothing.html","text_content":"<div class=\"banner-content text-center\">\r\n<h3 class=\"banner-title \"><a class=\" text-white\" href=\"https:\/\/themes.magesolution.com\/molla\/au\/fashion\/clothing.html\">Clothing<\/a><\/h3>\r\n<h4 class=\"banner-subtitle \"><a class=\" text-white\" href=\"https:\/\/themes.magesolution.com\/molla\/au\/fashion\/clothing.html\">24 Items<\/a><\/h4>\r\n<a href=\"https:\/\/themes.magesolution.com\/molla\/au\/fashion\/clothing.html\" class=\"btn text-white btn-white banner-link bg-primary-hover\">Discover Now<\/a>\r\n<\/div>","button_text":"","text_align":"middle-center","effect":"","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-display banner-link-anim]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/a/banne222r-6.jpg" url="https://themes.magesolution.com/molla/au/fashion/clothing.html" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content text-center262333346368616e67653b2667746368616e67653b
+266c746368616e67653bh3 class=262333346368616e67653bbanner-title 262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653b text-white262333346368616e67653b href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/fashion/clothing.html262333346368616e67653b2667746368616e67653bClothing266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b
+266c746368616e67653bh4 class=262333346368616e67653bbanner-subtitle 262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653b text-white262333346368616e67653b href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/fashion/clothing.html262333346368616e67653b2667746368616e67653b24 Items266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h42667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/fashion/clothing.html262333346368616e67653b class=262333346368616e67653bbtn text-white btn-white banner-link bg-primary-hover262333346368616e67653b2667746368616e67653bDiscover Now266c746368616e67653b/a2667746368616e67653b
+266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="middle-center" effect="" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[689]]></child_id>
+		<block_name><![CDATA[block236-1]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","banner_image":"\/b\/a\/banne2222222r-7.jpg","url":"https:\/\/themes.magesolution.com\/molla\/au\/shoes.html","text_content":"<div class=\"banner-content text-center\">\r\n<h3 class=\"banner-title\"><a class=\" text-white\" href=\"https:\/\/themes.magesolution.com\/molla\/au\/shoes.html\">Shoes<\/a><\/h3>\r\n<h4 class=\"banner-subtitle \"><a class=\" text-white\" href=\"https:\/\/themes.magesolution.com\/molla\/au\/shoes.html\">6 Items<\/a><\/h4>\r\n<a href=\"https:\/\/themes.magesolution.com\/molla\/au\/shoes.html\" class=\"btn text-white btn-white banner-link bg-primary-hover\">Shop Now<\/a>\r\n<\/div>","button_text":"","text_align":"middle-center","effect":"","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-display banner-link-anim]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/a/banne2222222r-7.jpg" url="https://themes.magesolution.com/molla/au/shoes.html" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content text-center262333346368616e67653b2667746368616e67653b
+266c746368616e67653bh3 class=262333346368616e67653bbanner-title262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653b text-white262333346368616e67653b href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/shoes.html262333346368616e67653b2667746368616e67653bShoes266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b
+266c746368616e67653bh4 class=262333346368616e67653bbanner-subtitle 262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653b text-white262333346368616e67653b href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/shoes.html262333346368616e67653b2667746368616e67653b6 Items266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h42667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/shoes.html262333346368616e67653b class=262333346368616e67653bbtn text-white btn-white banner-link bg-primary-hover262333346368616e67653b2667746368616e67653bShop Now266c746368616e67653b/a2667746368616e67653b
+266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="middle-center" effect="" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[690]]></child_id>
+		<block_name><![CDATA[block236-2]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","banner_image":"\/b\/a\/banne222r-5.jpg","url":"https:\/\/themes.magesolution.com\/molla\/au\/fashion\/women.html","text_content":"<div class=\"banner-content text-center\">\r\n<h3 class=\"banner-title\"><a class=\" text-white\" href=\"https:\/\/themes.magesolution.com\/molla\/au\/fashion\/women.html\">Jewellery<\/a><\/h3>\r\n<h4 class=\"banner-subtitle \"><a class=\" text-white\" href=\"https:\/\/themes.magesolution.com\/molla\/au\/fashion\/women.html\">6 Items<\/a><\/h4>\r\n<a href=\"https:\/\/themes.magesolution.com\/molla\/au\/fashion\/women.html\" class=\"btn text-white btn-white banner-link bg-primary-hover\">Shop Now<\/a>\r\n<\/div>","button_text":"","text_align":"middle-center","effect":"","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-display banner-link-anim]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/a/banne222r-5.jpg" url="https://themes.magesolution.com/molla/au/fashion/women.html" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content text-center262333346368616e67653b2667746368616e67653b
+266c746368616e67653bh3 class=262333346368616e67653bbanner-title262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653b text-white262333346368616e67653b href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/fashion/women.html262333346368616e67653b2667746368616e67653bJewellery266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b
+266c746368616e67653bh4 class=262333346368616e67653bbanner-subtitle 262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653b text-white262333346368616e67653b href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/fashion/women.html262333346368616e67653b2667746368616e67653b6 Items266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h42667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653bhttps://themes.magesolution.com/molla/au/fashion/women.html262333346368616e67653b class=262333346368616e67653bbtn text-white btn-white banner-link bg-primary-hover262333346368616e67653b2667746368616e67653bShop Now266c746368616e67653b/a2667746368616e67653b
+266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="middle-center" effect="" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<fbuilder>
+		<font_style>
+			<custom_style><![CDATA[.customer-account-login .page-main .columns .form-box .form-tab .tab-content .fieldset .field .confirmation {
+	margin-top: 40px;
+}
+.products-grid.effect2 .product-item .product-item-inner .product-item-actions .action {
+    color: #666 !important;
+    background-color: transparent !important;
+}
+.top-wishlist .block.block-wishlist .product-item .product-item-info .product-item-details .action.quickview {
+display: none;
+}
+.modal-popup.ajaxCartForm.viewBox.modal-slide .modal-inner-wrap .modal-content .catalog-product-view .column.main .product-info-main > div.price-box.price-tier_price {
+margin-bottom: 0;
+}
+.success-ajax--popup .ajax_cart-popup .popup__column .popup__column--result .product-confirm-detail .product-confirm-name {
+line-height: 1;
+}
+.product-image-photo { 
+width: 100%;
+}
+.success-ajax--popup.viewBox .ajax_cart-popup .popup__column .popup__table-col {
+    padding-right: 20px;
+}
+.modal-popup.confirm .modal-inner-wrap .modal-content > div {
+    font-weight: 500;
+    font-size: 15px !important;
+    line-height: 1.42857143;
+}
+.modal-popup.modal-slide._inner-scroll._show {
+    -webkit-overflow-scrolling: initial !important;
+}
+@media(max-width: 767px) {
+    .ajaxCartForm .modal-inner-wrap .catalog-product-view .product-info-main .product-add-form .product-options-bottom .product-addto-links {
+        margin-left: 0 !important;
+    }
+}
+@media(max-width: 425px) {
+	.products-grid:not(.active-slider) .product-items .product-item {
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+}
+
+@media(min-width: 426px) and (max-width: 767px) {
+	.products-grid:not(.active-slider) .product-items .product-item {
+		-ms-flex: 0 0 calc(100% / 2);
+		flex: 0 0 calc(100% / 2);
+		max-width: calc(100% / 2);
+	}
+}
+.product-cate .cate-name:not(.first-child)::before{display:none}
+.page-header .header-area .minicart-wrapper .action.showcart span.label.subtotal {
+display: none;
+}
+.page-header .header8.header-area .minicart-wrapper .action.showcart span.label.subtotal {
+    display: inline-block !important;
+}
+@media (max-width: 767px){
+.coming-soon .soon-content .coming-form .block.newsletter .form.subscribe .actions {
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+    width: 100%;
+}}]]></custom_style>
+		</font_style>
+	</fbuilder>
+	<themesettings>
+		<header>
+			<header_absolute><![CDATA[1]]></header_absolute>
+			<header_version><![CDATA[header7]]></header_version>
+			<search_type><![CDATA[icon-popup]]></search_type>
+		</header>
+		<footer>
+			<footer_version><![CDATA[footer5]]></footer_version>
+		</footer>
+		<product_image_dimention>
+			<default_grid><![CDATA[290x386]]></default_grid>
+			<default_list><![CDATA[240x320]]></default_list>
+			<small_list><![CDATA[240x320]]></small_list>
+		</product_image_dimention>
+	</themesettings>
+</page>

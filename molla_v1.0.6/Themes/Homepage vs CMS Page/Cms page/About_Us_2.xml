@@ -1,0 +1,695 @@
+<page>
+	<section>
+		<name><![CDATA[block77]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[1,10,1]]></block_cols>
+		<tablet_cols><![CDATA[["12","12","12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["","",""]]]></block_class>
+		<class><![CDATA[about_general]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[38]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block78]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[4,4,4]]></block_cols>
+		<tablet_cols><![CDATA[["6","6","6"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["","","about_profile--custom"]]]></block_class>
+		<class><![CDATA[about_group_icon]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[39]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block79]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[3,3,3,3]]></block_cols>
+		<tablet_cols><![CDATA[["3","3","3","3"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["6","6","6","6"]]]></mobile_cols>
+		<block_class><![CDATA[["","","",""]]]></block_class>
+		<class><![CDATA[about_coutdown]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[/b/g/bg-4.jpg]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[120]]></padding_top>
+		<padding_bottom><![CDATA[90]]></padding_bottom>
+		<block_position><![CDATA[40]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block80]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[about_portfolio about_2_portfolio]]></class>
+		<background><![CDATA[#f9f9f9]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[60]]></padding_top>
+		<padding_bottom><![CDATA[70]]></padding_bottom>
+		<block_position><![CDATA[41]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block81]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[about_brand about_2_brand]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[60]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[42]]></block_position>
+	</section>
+	<block>
+		<child_id><![CDATA[238]]></child_id>
+		<block_name><![CDATA[block77-1]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"30","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="about-text text-center mt-3">
+<h2 class="title text-center mb-2" style="text-align: center;">Who We Are</h2>
+<!-- End .title text-center mb-2 -->
+<p style="text-align: center;">Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Suspendisse potenti. Sed egestas, ante et vulputate volutpat, uctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis.</p>
+<img style="display: block; margin-left: auto; margin-right: auto;" src="{{media url="wysiwyg/fbuilder/signature.png"}}" alt="" /> <img style="display: block; margin-left: auto; margin-right: auto;" src="{{media url="wysiwyg/fbuilder/img-1.jpg"}}" alt="" /></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[239]]></child_id>
+		<block_name><![CDATA[block78-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-sm text-center"><span class="icon-box-icon"> <i class="icon-puzzle-piece"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Design Quality</h3>
+<!-- End .icon-box-title -->
+<p>Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero <br />eu augue.</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[240]]></child_id>
+		<block_name><![CDATA[block78-1]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-sm text-center"><span class="icon-box-icon"> <i class="icon-life-ring"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Professional Support</h3>
+<!-- End .icon-box-title -->
+<p>Praesent dapibus, neque id cursus faucibus, <br />tortor neque egestas augue, eu vulputate <br />magna eros eu erat.</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[241]]></child_id>
+		<block_name><![CDATA[block78-2]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[about_profile--fullwidth]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-sm text-center"><span class="icon-box-icon"> <i class="icon-heart-o"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Made With Love</h3>
+<!-- End .icon-box-title -->
+<p>Pellentesque a diam sit amet mi ullamcorper <br />vehicula. Nullam quis massa sit amet <br />nibh viverra malesuada.</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[242]]></child_id>
+		<block_name><![CDATA[block79-0]]></block_name>
+		<type><![CDATA[counter_box]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"33","icon":"","icon_font_size":"","border":"","border_width":"","width":"","icon_color":"#ffffff","icon_background":"","subtitle":"k+","subtitle_font_size":"","subtitle_font_color":"","text_content":"Happy Customer","desc_font_size":"16","style":"horizontal","box_border":"","number_color":"","number_font_size":"","number_from":"0","number_to":"40","duration":"3000","separators":","}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="Magento\Framework\View\Element\Template" fbuilder_icon="" fbuilder_subtitle="k26706c75736368616e67653b" fbuilder_text_content="Happy Customer" style="horizontal" icon_font_size="" border="" border_width="" width="" icon_color="#ffffff" icon_color="#ffffff" icon_background="" subtitle_font_size="" subtitle_font_color="" desc_font_size="16" box_border="" number_color="" number_font_size="" number_from="0" number_to="40" duration="3000" separators="," template="MGS_Fbuilder::widget/counter_box.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[243]]></child_id>
+		<block_name><![CDATA[block79-1]]></block_name>
+		<type><![CDATA[counter_box]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"33","icon":"","icon_font_size":"","border":"","border_width":"","width":"","icon_color":"#ffffff","icon_background":"","subtitle":"+","subtitle_font_size":"","subtitle_font_color":"#ffffff","text_content":"Years in Business","desc_font_size":"16","style":"horizontal","box_border":"","number_color":"","number_font_size":"","number_from":"0","number_to":"20","duration":"3000","separators":","}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="Magento\Framework\View\Element\Template" fbuilder_icon="" fbuilder_subtitle="26706c75736368616e67653b" fbuilder_text_content="Years in Business" style="horizontal" icon_font_size="" border="" border_width="" width="" icon_color="#ffffff" icon_color="#ffffff" icon_background="" subtitle_font_size="" subtitle_font_color="#ffffff" desc_font_size="16" box_border="" number_color="" number_font_size="" number_from="0" number_to="20" duration="3000" separators="," template="MGS_Fbuilder::widget/counter_box.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[244]]></child_id>
+		<block_name><![CDATA[block79-2]]></block_name>
+		<type><![CDATA[counter_box]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"33","icon":"","icon_font_size":"","border":"","border_width":"","width":"","icon_color":"#ffffff","icon_background":"","subtitle":"%","subtitle_font_size":"","subtitle_font_color":"#ffffff","text_content":"Return Clients","desc_font_size":"16","style":"horizontal","box_border":"","number_color":"","number_font_size":"","number_from":"0","number_to":"95","duration":"3000","separators":","}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="Magento\Framework\View\Element\Template" fbuilder_icon="" fbuilder_subtitle="%" fbuilder_text_content="Return Clients" style="horizontal" icon_font_size="" border="" border_width="" width="" icon_color="#ffffff" icon_color="#ffffff" icon_background="" subtitle_font_size="" subtitle_font_color="#ffffff" desc_font_size="16" box_border="" number_color="" number_font_size="" number_from="0" number_to="95" duration="3000" separators="," template="MGS_Fbuilder::widget/counter_box.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[245]]></child_id>
+		<block_name><![CDATA[block79-3]]></block_name>
+		<type><![CDATA[counter_box]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"33","icon":"","icon_font_size":"","border":"","border_width":"","width":"","icon_color":"#ffffff","icon_background":"","subtitle":"","subtitle_font_size":"30","subtitle_font_color":"#ffffff","text_content":"Awards Won","desc_font_size":"16","style":"horizontal","box_border":"","number_color":"","number_font_size":"","number_from":"0","number_to":"15","duration":"3000","separators":","}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="Magento\Framework\View\Element\Template" fbuilder_icon="" fbuilder_subtitle="" fbuilder_text_content="Awards Won" style="horizontal" icon_font_size="" border="" border_width="" width="" icon_color="#ffffff" icon_color="#ffffff" icon_background="" subtitle_font_size="30" subtitle_font_color="#ffffff" desc_font_size="16" box_border="" number_color="" number_font_size="" number_from="0" number_to="15" duration="3000" separators="," template="MGS_Fbuilder::widget/counter_box.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[246]]></child_id>
+		<block_name><![CDATA[block80-0]]></block_name>
+		<type><![CDATA[heading]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"48","heading":"h2","subtitle":"Meet Our Team","heading_align":"center","heading_font_size":"24","heading_color":"","heading_background":"","border_style":"solid","border_position":"bottom","border_color":"","border_container_width":"","border_width":"","border_margin":"","heading_fontweight":0,"heading_italic":0,"heading_uppercase":0,"show_border":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[about_our_team]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="Magento\Framework\View\Element\Template" heading="h2" fbuilder_subtitle="Meet Our Team" heading_align="center" heading_fontweight="0" heading_italic="0" heading_uppercase="0" show_border="0" border_style="solid" border_position="bottom" template="MGS_Fbuilder::widget/heading.phtml"}}]]></block_content>
+		<custom_style><![CDATA[.block246 .mgs-heading .heading{font-size:24px}]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[247]]></child_id>
+		<block_name><![CDATA[block80-0]]></block_name>
+		<type><![CDATA[profile]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","profile_photo":"\/m\/e\/member-1_.jpg","style":"vertical","profile_name":"Samanta Grey","name_font_size":"","name_font_color":"","subtitle":"Founder & CEO","subtitle_font_size":"","subtitle_font_color":"","subtitle_border_color":"","text_content":"","desc_font_size":"","desc_font_color":"","email":"","facebook":"http:\/\/www.facebook.com","twitter":"http:\/\/www.twitter.com","linkedin":"http:\/\/www.linken.com","social_font_size":"","social_box_width":"","social_font_color":"","social_background":"","social_border":"","social_hover_color":"","social_hover_background":"","social_hover_border":"","social_box_shadow":0}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\Profile" profile_photo="/m/e/member-1_.jpg" fbuilder_profile_name="Samanta Grey" fbuilder_subtitle="Founder & CEO" fbuilder_text_content="" email="" facebook="http://www.facebook.com" twitter="http://www.twitter.com" linkedin="http://www.linken.com" social_box_shadow="0" template="widget/profile/vertical.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[248]]></child_id>
+		<block_name><![CDATA[block80-0]]></block_name>
+		<type><![CDATA[profile]]></type>
+		<position><![CDATA[3]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","profile_photo":"\/m\/e\/member-2_1.jpg","style":"vertical","profile_name":"Bruce Sutton","name_font_size":"","name_font_color":"","subtitle":"Sales & Marketing Manager","subtitle_font_size":"","subtitle_font_color":"","subtitle_border_color":"","text_content":"","desc_font_size":"","desc_font_color":"","email":"","facebook":"http:\/\/www.facebook.com","twitter":"http:\/\/www.twitter.com","linkedin":"http:\/\/www.linken.com","social_font_size":"","social_box_width":"","social_box_shadow":"1","social_font_color":"","social_background":"","social_border":"","social_hover_color":"","social_hover_background":"","social_hover_border":""}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\Profile" profile_photo="/m/e/member-2_1.jpg" fbuilder_profile_name="Bruce Sutton" fbuilder_subtitle="Sales & Marketing Manager" fbuilder_text_content="" email="" facebook="http://www.facebook.com" twitter="http://www.twitter.com" linkedin="http://www.linken.com" social_box_shadow="1" template="widget/profile/vertical.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[249]]></child_id>
+		<block_name><![CDATA[block80-0]]></block_name>
+		<type><![CDATA[profile]]></type>
+		<position><![CDATA[4]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","profile_photo":"\/m\/e\/member-3_1.jpg","style":"vertical","profile_name":"Janet Joy","name_font_size":"","name_font_color":"","subtitle":"Product Manager","subtitle_font_size":"","subtitle_font_color":"","subtitle_border_color":"","text_content":"","desc_font_size":"","desc_font_color":"","email":"","facebook":"http:\/\/www.facebook.com","twitter":"http:\/\/www.twitter.com","linkedin":"http:\/\/www.linken.com","social_font_size":"","social_box_width":"","social_font_color":"","social_background":"","social_border":"","social_hover_color":"","social_hover_background":"","social_hover_border":"","social_box_shadow":0}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\Profile" profile_photo="/m/e/member-3_1.jpg" fbuilder_profile_name="Janet Joy" fbuilder_subtitle="Product Manager" fbuilder_text_content="" email="" facebook="http://www.facebook.com" twitter="http://www.twitter.com" linkedin="http://www.linken.com" social_box_shadow="0" template="widget/profile/vertical.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[250]]></child_id>
+		<block_name><![CDATA[block80-0]]></block_name>
+		<type><![CDATA[profile]]></type>
+		<position><![CDATA[5]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","profile_photo":"\/m\/e\/member-4.jpg","style":"vertical","profile_name":"Mark Pocket","name_font_size":"","name_font_color":"","subtitle":"Product Manager","subtitle_font_size":"","subtitle_font_color":"","subtitle_border_color":"","text_content":"","desc_font_size":"","desc_font_color":"","email":"","facebook":"http:\/\/www.facebook.com","twitter":"http:\/\/www.twitter.com","linkedin":"http:\/\/www.linken.com","social_font_size":"","social_box_width":"","social_font_color":"","social_background":"","social_border":"","social_hover_color":"","social_hover_background":"","social_hover_border":"","social_box_shadow":0}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\Profile" profile_photo="/m/e/member-4.jpg" fbuilder_profile_name="Mark Pocket" fbuilder_subtitle="Product Manager" fbuilder_text_content="" email="" facebook="http://www.facebook.com" twitter="http://www.twitter.com" linkedin="http://www.linken.com" social_box_shadow="0" template="widget/profile/vertical.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[251]]></child_id>
+		<block_name><![CDATA[block80-0]]></block_name>
+		<type><![CDATA[profile]]></type>
+		<position><![CDATA[6]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","profile_photo":"\/m\/e\/member-5.jpg","style":"vertical","profile_name":"Damion Blue","name_font_size":"","name_font_color":"","subtitle":"Sales & Marketing Manager","subtitle_font_size":"","subtitle_font_color":"","subtitle_border_color":"","text_content":"","desc_font_size":"","desc_font_color":"","email":"","facebook":"http:\/\/www.facebook.com","twitter":"http:\/\/www.twitter.com","linkedin":"http:\/\/www.linken.com","social_font_size":"","social_box_width":"","social_font_color":"","social_background":"","social_border":"","social_hover_color":"","social_hover_background":"","social_hover_border":"","social_box_shadow":0}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\Profile" profile_photo="/m/e/member-5.jpg" fbuilder_profile_name="Damion Blue" fbuilder_subtitle="Sales & Marketing Manager" fbuilder_text_content="" email="" facebook="http://www.facebook.com" twitter="http://www.twitter.com" linkedin="http://www.linken.com" social_box_shadow="0" template="widget/profile/vertical.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[252]]></child_id>
+		<block_name><![CDATA[block80-0]]></block_name>
+		<type><![CDATA[profile]]></type>
+		<position><![CDATA[7]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","profile_photo":"\/m\/e\/member-6.jpg","style":"vertical","profile_name":"Lenard Smith","name_font_size":"","name_font_color":"","subtitle":"Product Manager","subtitle_font_size":"","subtitle_font_color":"","subtitle_border_color":"","text_content":"","desc_font_size":"","desc_font_color":"","email":"","facebook":"http:\/\/www.facebook.com","twitter":"http:\/\/www.twitter.com","linkedin":"http:\/\/www.linken.com","social_font_size":"","social_box_width":"","social_font_color":"","social_background":"","social_border":"","social_hover_color":"","social_hover_background":"","social_hover_border":"","social_box_shadow":0}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\Profile" profile_photo="/m/e/member-6.jpg" fbuilder_profile_name="Lenard Smith" fbuilder_subtitle="Product Manager" fbuilder_text_content="" email="" facebook="http://www.facebook.com" twitter="http://www.twitter.com" linkedin="http://www.linken.com" social_box_shadow="0" template="widget/profile/vertical.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[253]]></child_id>
+		<block_name><![CDATA[block80-0]]></block_name>
+		<type><![CDATA[profile]]></type>
+		<position><![CDATA[8]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","profile_photo":"\/m\/e\/member-7.jpg","style":"vertical","profile_name":"Rachel Green","name_font_size":"","name_font_color":"","subtitle":"Product Manager","subtitle_font_size":"","subtitle_font_color":"","subtitle_border_color":"","text_content":"","desc_font_size":"","desc_font_color":"","email":"","facebook":"http:\/\/www.facebook.com","twitter":"http:\/\/www.twitter.com","linkedin":"http:\/\/www.linken.com","social_font_size":"","social_box_width":"","social_font_color":"","social_background":"","social_border":"","social_hover_color":"","social_hover_background":"","social_hover_border":"","social_box_shadow":0}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\Profile" profile_photo="/m/e/member-7.jpg" fbuilder_profile_name="Rachel Green" fbuilder_subtitle="Product Manager" fbuilder_text_content="" email="" facebook="http://www.facebook.com" twitter="http://www.twitter.com" linkedin="http://www.linken.com" social_box_shadow="0" template="widget/profile/vertical.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[254]]></child_id>
+		<block_name><![CDATA[block80-0]]></block_name>
+		<type><![CDATA[profile]]></type>
+		<position><![CDATA[9]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","profile_photo":"\/m\/e\/member-8.jpg","style":"vertical","profile_name":"David Doe","name_font_size":"","name_font_color":"","subtitle":"Product Manager","subtitle_font_size":"","subtitle_font_color":"","subtitle_border_color":"","text_content":"","desc_font_size":"","desc_font_color":"","email":"","facebook":"http:\/\/www.facebook.com","twitter":"http:\/\/www.twitter.com","linkedin":"http:\/\/www.linken.com","social_font_size":"","social_box_width":"","social_font_color":"","social_background":"","social_border":"","social_hover_color":"","social_hover_background":"","social_hover_border":"","social_box_shadow":0}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\Profile" profile_photo="/m/e/member-8.jpg" fbuilder_profile_name="David Doe" fbuilder_subtitle="Product Manager" fbuilder_text_content="" email="" facebook="http://www.facebook.com" twitter="http://www.twitter.com" linkedin="http://www.linken.com" social_box_shadow="0" template="widget/profile/vertical.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[255]]></child_id>
+		<block_name><![CDATA[block80-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[10]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"22","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<p style="text-align: center;"><a class="btn btn-default icon-right" href="blog.html"> LETS START WORK</a></p>
+<div id="gtx-trans" style="position: absolute; left: -67px; top: -18px;">
+<div class="gtx-trans-icon"></div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[256]]></child_id>
+		<block_name><![CDATA[block81-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"5","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"60"}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[shop_by_brand_content]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="brands-text text-center mx-auto mb-6">
+<h2 class="title" style="text-align: center;">The world's premium design brands in one destination.</h2>
+<!-- End .title -->
+<p style="text-align: center;">Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nis</p>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[257]]></child_id>
+		<block_name><![CDATA[block81-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[10]]></col>
+		<class><![CDATA[about_custom--brand]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<p>{{block class="MGS\Brand\Block\Brands" template="MGS_Brand::list_brand.phtml"}}</p>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<fbuilder>
+		<font_style>
+			<custom_style><![CDATA[.header-area .category-dropdown:not(.category-market):hover .title-vertical-menu, .header-area .category-dropdown:not(.category-market):focus .title-vertical-menu {
+background-color: #a6c76d;
+}
+.header-area .horizontal-menu .mgs-megamenu--main ul li a.view-all-demos {
+font-weight: 400;
+color: #a6c76d;
+}
+@media (min-width: 991px){
+.header-area .horizontal-menu .mgs-megamenu--main ul li a, 
+.header-area .category-dropdown .title-vertical-menu {
+font-weight: 500;
+}
+.megamenu-action .view-all-demos,  {
+font-weight: 400;
+}
+}
+aside.modal-popup.confirm._show {
+    z-index: 9999 !important;
+}
+
+aside.modal-popup.confirm._show + .modals-overlay {
+    z-index: 9998 !important;
+}
+.cms-index-index  .page-wrapper .page-main .column {
+padding-bottom: 0;
+}
+.cms-index-index  .page-wrapper .page-footer .footer {
+margin-top: 0;
+}
+.product-item .mage-error{
+	display: none !important;
+}
+.top-wishlist .block.block-wishlist .product-item .product-item-info .product-item-details .action.quickview {
+display: none;
+}
+.page-main > .page-title-wrapper.layout_type2 .breadcrumbs .items {
+    padding: 16px 10px 13px;
+}
+.page-main > .page-title-wrapper.layout_type2  .breadcrumbs {
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(235, 235, 235, 0.55);
+}
+.page-wrapper > .breadcrumbs {
+    margin-bottom: 0;
+}
+
+.latest-post-grid-block .owl-carousel .owl-stage-outer {
+height: auto !important;
+}
+
+.modal-popup.ajaxCartForm.viewBox.modal-slide .modal-inner-wrap .modal-content .catalog-product-view .column.main .product-info-main > div.price-box.price-tier_price {
+margin-bottom: 0;
+}
+.success-ajax--popup .ajax_cart-popup .popup__column .popup__column--result .product-confirm-detail .product-confirm-name {
+line-height: 1;
+}
+.product-image-photo { 
+width: 100%;
+}
+.cms-index-index .column.main {
+    padding-bottom: 0;
+}
+.widget .product-image-photo {
+width: 100%;
+}
+.modal-popup.confirm .modal-inner-wrap .modal-content > div {
+    font-weight: 500;
+    font-size: 15px !important;
+    line-height: 1.42857143;
+}
+.success-ajax--popup .ajax_cart-popup .popup__column .popup__table-col {
+    padding-right: 20px !important;
+}]]></custom_style>
+		</font_style>
+	</fbuilder>
+	<themesettings>
+		<general>
+			<color_primary><![CDATA[#a6c76c]]></color_primary>
+		</general>
+		<header>
+			<top_header_background_color><![CDATA[]]></top_header_background_color>
+		</header>
+		<main>
+			<link_hover_color><![CDATA[#a6c76c]]></link_hover_color>
+			<primary_button_background_color><![CDATA[#a6c76c]]></primary_button_background_color>
+			<primary_button_background_hover_color><![CDATA[#92b25a]]></primary_button_background_hover_color>
+			<primary_button_border_color><![CDATA[#a6c76c]]></primary_button_border_color>
+			<primary_button_border_hover_color><![CDATA[#92b25a]]></primary_button_border_hover_color>
+			<primary_button_text_color><![CDATA[#ffffff]]></primary_button_text_color>
+			<primary_button_text_hover_color><![CDATA[#ffffff]]></primary_button_text_hover_color>
+		</main>
+	</themesettings>
+</page>

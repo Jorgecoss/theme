@@ -1,0 +1,857 @@
+<page>
+	<section>
+		<name><![CDATA[block267]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[3,3,3,3]]></block_cols>
+		<tablet_cols><![CDATA[["6","6","6","6"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12","12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["col-sm-6 banner-service","col-sm-6 banner-service","col-sm-6 banner-service","col-sm-6 banner-service"]]]></block_class>
+		<class><![CDATA[icon-boxes  icon-boxes-separator]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[3]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block268]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[label-not-hide ]]></class>
+		<background><![CDATA[#f8f8f8]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[16]]></padding_top>
+		<padding_bottom><![CDATA[50]]></padding_bottom>
+		<block_position><![CDATA[4]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block269]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[4,4,4]]></block_cols>
+		<tablet_cols><![CDATA[["4","4","4"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["","",""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[50]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[5]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block270]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[0]]></padding_top>
+		<padding_bottom><![CDATA[15]]></padding_bottom>
+		<block_position><![CDATA[6]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block271]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[10]]></padding_bottom>
+		<block_position><![CDATA[7]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block272]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[5,7]]></block_cols>
+		<tablet_cols><![CDATA[["12","12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["",""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[8]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block273]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[]]></tablet_cols>
+		<mobile_cols><![CDATA[]]></mobile_cols>
+		<block_class><![CDATA[]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[9]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block274]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[50]]></padding_top>
+		<padding_bottom><![CDATA[30]]></padding_bottom>
+		<block_position><![CDATA[10]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block275]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[#f8f8f8]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[40]]></padding_top>
+		<padding_bottom><![CDATA[90]]></padding_bottom>
+		<block_position><![CDATA[11]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block276]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[20]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[0]]></block_position>
+	</section>
+	<block>
+		<child_id><![CDATA[745]]></child_id>
+		<block_name><![CDATA[block267-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-left icon-box-side"><span class="icon-box-icon text-dark"> <i class="icon-rocket"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Free Shipping</h3>
+<!-- End .icon-box-title -->
+<p>orders $50 or more</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[746]]></child_id>
+		<block_name><![CDATA[block267-1]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-left icon-box-side"><span class="icon-box-icon text-dark"> <i class="icon-rotate-left"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Free Returns</h3>
+<!-- End .icon-box-title -->
+<p>within 30 days</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[747]]></child_id>
+		<block_name><![CDATA[block267-2]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-left icon-box-side">
+<span class="icon-box-icon text-dark">  <i class="icon-info-circle"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Get 20% Off 1 Item</h3>
+<!-- End .icon-box-title -->
+<p>When you sign up</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[748]]></child_id>
+		<block_name><![CDATA[block267-3]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-left icon-box-side"><span class="icon-box-icon text-dark"> <i class="icon-life-ring"></i> </span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">We Support</h3>
+<!-- End .icon-box-title -->
+<p>24/7 amazing services</p>
+</div>
+<!-- End .icon-box-content --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[749]]></child_id>
+		<block_name><![CDATA[block268-0]]></block_name>
+		<type><![CDATA[tabs]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","tabs":{"mgs_new_products_tabs":{"value":"mgs_new_products_tabs","label":"New Releases","position":"2"},"mgs_rate_products_tabs":{"value":"mgs_rate_products_tabs","label":"Best-Rated","position":"3"},"980":{"value":"best_seller","label":"Now Trending","position":"1"}},"tab_ajax":"1","tab_style":"style5","tab_align":"center","font_size":"24","tab_primary_color":"#333333","tab_secondary_color":"","tab_third_color":"","limit":"6","perrow":"5","perrow_tablet":"3","perrow_mobile":"2","use_slider":"1","number_row":"1","navigation_position":"middle-inside","nav_top":"-45","pagination":"1","pagination_position":"center","slide_by":"0","slide_margin":"20","category_id":["152"],"autoplay":0,"stop_auto":0,"rtl":0,"navigation":0,"loop":0,"hide_name":0,"hide_review":0,"hide_price":0,"hide_addcart":0,"hide_addwishlist":0,"hide_addcompare":0,"tab_font_bold":0,"tab_italic":0,"tab_uppercase":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[not-hide-label carousel-equal-height ]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Products\Tabs" limit="6" category_ids="152" use_slider="1" hide_name="0" hide_review="0" hide_price="0" hide_addcart="0" hide_addwishlist="0" hide_addcompare="0" tabs="best_seller,mgs_new_products_tabs,mgs_rate_products_tabs" perrow="5" perrow_tablet="3" perrow_mobile="2" autoplay="0" stop_auto="0" navigation="0" hide_nav="0" nav_top="-45" navigation_position="middle-inside" pagination_position="center" pagination="1" number_row="1" slide_by="0" loop="0" rtl="0" slide_margin="20" labels="Now Trending,New Releases,Best-Rated" use_ajax="1" tab_style="style5" tab_align="center" template="products/tabs/view.phtml"}}]]></block_content>
+		<custom_style><![CDATA[.block749 .mgs-tab.data.items > .item.title > .switch{font-size:24px;}.block749 .mgs-product-tab .tab-style5.data.items .item.title.active .switch, .block749 .mgs-product-tab .tab-style5.data.items .item.title .switch:hover{color: #333333 !important}.block749 .mgs-product-tab .tab-style5.data.items .item.title.active .switch:after{background-color: #333333;}]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[750]]></child_id>
+		<block_name><![CDATA[block270-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<hr/>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[751]]></child_id>
+		<block_name><![CDATA[block271-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="heading heading-flex">
+<h2 class="title font-weight-semibold">Games Coming Soon</h2>
+<a class="view-more " href="#"> View More Products <i class="icon-long-arrow-right"></i> </a></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[752]]></child_id>
+		<block_name><![CDATA[block272-0]]></block_name>
+		<type><![CDATA[owl_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"block_link":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"50","margin_right":"","margin_bottom":"","removeimg":["","","","","","","","","","","","","","","","","remove","remove","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","remove","",""],"html_slider":"266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b style=262333346368616e67653bbackground-image:url(https:\/\/themes.magesolution.com\/molla\/pub\/media\/wysiwyg\/slider\/bn-slider2_1.png)262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttps:\/\/themes.magesolution.com\/molla\/pub\/media\/wysiwyg\/slider\/bn-slider2_1.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(https:\/\/themes.magesolution.com\/molla\/pub\/media\/wysiwyg\/slider\/bn-slider1_1.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttps:\/\/themes.magesolution.com\/molla\/pub\/media\/wysiwyg\/slider\/bn-slider1_1.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b","items":"1","items_tablet":"1","items_mobile":"1","preload":"1","height_preload":"","slide_margin":"","speed":"","navigation_position":"middle-inside","nav_top":"-55","pagination":"1","pagination_position":"center","autoplay":0,"stop_auto":0,"navigation":0,"loop":0,"fullheight":0,"rtl":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[slider-banner-simple]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\OwlCarousel" autoplay="0" stop_auto="0" navigation="0" hide_nav="0" nav_top="-55" navigation_position="middle-inside" pagination_position="center" fullheight="0" preload="1"height_preload="" pagination="1" loop="0" rtl="0" speed="" items="1" items_tablet="1" items_mobile="1" slide_margin="" html_slider="266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b style=262333346368616e67653bbackground-image:url(https://themes.magesolution.com/molla/pub/media/wysiwyg/slider/bn-slider2_1.png)262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttps://themes.magesolution.com/molla/pub/media/wysiwyg/slider/bn-slider2_1.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(https://themes.magesolution.com/molla/pub/media/wysiwyg/slider/bn-slider1_1.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttps://themes.magesolution.com/molla/pub/media/wysiwyg/slider/bn-slider1_1.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b" template="widget/owl_slider.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[753]]></child_id>
+		<block_name><![CDATA[block272-1]]></block_name>
+		<type><![CDATA[category_products]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","limit":"6","perrow":"3","perrow_tablet":"3","perrow_mobile":"2","numbercol":"1","percol":"","template":"grid.phtml","number_row":"1","navigation_position":"middle-inside","nav_top":"-45","pagination_position":"center","slide_by":"","slide_margin":"30","category_id":["160"],"tab_style":"style1","tab_align":"left","font_size":"","tab_primary_color":"","tab_secondary_color":"","tab_third_color":"","use_slider":0,"cate_link":0,"autoplay":0,"stop_auto":0,"rtl":0,"navigation":0,"loop":0,"pagination":0,"use_tabs":0,"tab_ajax":0,"hide_name":0,"hide_review":0,"hide_price":0,"hide_addcart":0,"hide_addwishlist":0,"hide_addcompare":0,"tab_font_bold":0,"tab_italic":0,"tab_uppercase":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Products\Category" block_type="catproduct" limit="6" category_ids="160" use_slider="0" cate_link="0" hide_name="0" hide_review="0" hide_price="0" hide_addcart="0" mode="grid.phtml" hide_addwishlist="0" hide_addcompare="0" perrow="3" perrow_tablet="3" perrow_mobile="2" template="products/grid.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[754]]></child_id>
+		<block_name><![CDATA[block273-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[cta-horizontal-box has-bg]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[/b/g/bg-2_5.jpg]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[1]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="cta cta-horizontal cta-horizontal-box">
+<div class="line align-items-center">
+<div class="col-des-5">
+<h3 class="cta-title text-primary">Join Our Newsletter</h3>
+<!-- End .cta-title -->
+<p class="cta-desc text-white">Subcribe to get information about products and coupons</p>
+<!-- End .cta-desc --></div>
+<!-- End .col-des-5 -->
+<div class="col-des-7">
+<div class="conts-newsletter">{{block class="Magento\Newsletter\Block\Subscribe" template="Magento_Newsletter::subscribe.phtml"}}</div>
+</div>
+<!-- End .col-des-7 --></div>
+<!-- End .container --></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[755]]></child_id>
+		<block_name><![CDATA[block274-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="heading heading-flex">
+<h2 class="title font-weight-semibold">Consoles &amp; Accessories</h2>
+<a class="view-more " href="#"> View More Products <i class="icon-long-arrow-right"></i> </a></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[756]]></child_id>
+		<block_name><![CDATA[block274-0]]></block_name>
+		<type><![CDATA[category_products]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","limit":"6","perrow":"5","perrow_tablet":"3","perrow_mobile":"2","numbercol":"1","percol":"","template":"grid.phtml","use_slider":"1","number_row":"1","navigation_position":"middle-inside","nav_top":"-45","pagination_position":"center","slide_by":"0","slide_margin":"30","category_id":["161"],"tab_style":"style1","tab_align":"left","font_size":"","tab_primary_color":"","tab_secondary_color":"","tab_third_color":"","cate_link":0,"autoplay":0,"stop_auto":0,"rtl":0,"navigation":0,"loop":0,"pagination":0,"use_tabs":0,"tab_ajax":0,"hide_name":0,"hide_review":0,"hide_price":0,"hide_addcart":0,"hide_addwishlist":0,"hide_addcompare":0,"tab_font_bold":0,"tab_italic":0,"tab_uppercase":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Products\Category" block_type="catproduct" limit="6" category_ids="161" use_slider="1" cate_link="0" hide_name="0" hide_review="0" hide_price="0" hide_addcart="0" mode="grid.phtml" hide_addwishlist="0" hide_addcompare="0" perrow="5" perrow_tablet="3" perrow_mobile="2" autoplay="0" stop_auto="0" navigation="0" hide_nav="0" nav_top="-45" navigation_position="middle-inside" pagination_position="center" pagination="0" number_row="1" slide_by="0" loop="0" rtl="0" slide_margin="30" template="products/grid.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[757]]></child_id>
+		<block_name><![CDATA[block275-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"28"}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="heading heading-flex">
+<h2 class="title font-weight-semibold">From Our Blog</h2>
+<a class="view-more " href="#"> View More Articles <i class="icon-long-arrow-right"></i> </a></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[758]]></child_id>
+		<block_name><![CDATA[block275-0]]></block_name>
+		<type><![CDATA[latest_post]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","post_category":["7"],"limit":"5","perrow":"4","perrow_tablet":"3","perrow_mobile":"2","numbercol":"1","percol":"","template":"grid.phtml","hide_description":"1","character_count":"","use_slider":"1","number_row":"1","navigation_position":"middle-inside","nav_top":"-45","pagination":"1","pagination_position":"center","slide_by":"0","slide_margin":"20","autoplay":0,"stop_auto":0,"rtl":0,"navigation":0,"loop":0,"hide_thumbnail":0,"hide_create":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[blog-posts text-left carousel-equal-height]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{widget type="MGS\Blog\Block\Widget\Latest" limit="5" post_category="7" use_slider="1" hide_thumbnail="0" hide_description="1" character_count="" hide_create="0" perrow="4" perrow_tablet="3" perrow_mobile="2" autoplay="0" stop_auto="0" navigation="0" hide_nav="0" nav_top="-45" navigation_position="middle-inside" pagination_position="center" pagination="1" number_row="1" slide_by="0" loop="0" rtl="0" slide_margin="20" template="MGS_Fbuilder::widget/blog/grid.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[759]]></child_id>
+		<block_name><![CDATA[block269-0]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20","banner_image":"\/b\/n\/bn1_8_.png","url":"","text_content":"","button_text":"","text_align":"top-left","effect":"","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-overlay]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/n/bn1_8_.png" url="" fbuilder_text_content="" fbuilder_button_text="" text_align="top-left" effect="" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[760]]></child_id>
+		<block_name><![CDATA[block269-1]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20","banner_image":"\/b\/n\/bn1_1__1.png","url":"","text_content":"","button_text":"","text_align":"top-left","effect":"","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-overlay]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/n/bn1_1__1.png" url="" fbuilder_text_content="" fbuilder_button_text="" text_align="top-left" effect="" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[761]]></child_id>
+		<block_name><![CDATA[block269-2]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20","banner_image":"\/b\/n\/bn1_2_.png","url":"","text_content":"","button_text":"","text_align":"top-left","effect":"","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-overlay]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/n/bn1_2_.png" url="" fbuilder_text_content="" fbuilder_button_text="" text_align="top-left" effect="" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[762]]></child_id>
+		<block_name><![CDATA[block276-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[vertical-outsite-header hide-lg]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="category-dropdown"><a class="dropdown-toggle title-vertical-menu" title="Browse Categories" href="#" data-toggle="dropdown" data-display="static"> Browse Categories </a>
+<div class="dropdown-menu">{{block class="MGS\Mmegamenu\Block\Vertical" menu_id="4" template="MGS_Mmegamenu::vertical.phtml"}}</div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[763]]></child_id>
+		<block_name><![CDATA[block276-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20"}]]></setting>
+		<col><![CDATA[6]]></col>
+		<class><![CDATA[col-lg-8 col-tb-12 col-mb-12 ]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="banner banner-overlay banner-lg  content-left"><a href="#"> <img src="{{media url="wysiwyg/fbuilder/banner-1_1_.jpg"}}" alt="banner Molla" /> </a>
+<div class="banner-content">
+<h4 class="banner-subtitle  text-primary">Pre-order now</h4>
+<img src="{{media url="wysiwyg/fbuilder/banner-1-title.png"}}" alt="Banner 1 Title" width="217" height="54" /> <a class="banner-link text-dark dark-primary size-lg" href="#">Pre-Order Now<i class="icon-long-arrow-right"></i></a></div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[764]]></child_id>
+		<block_name><![CDATA[block276-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[3]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20"}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[col-lg-4 col-tb-6 col-sm-6 col-mb-12 ]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="banner banner-overlay banner-sm content-right"><a href="#"> <img src="{{media url="wysiwyg/fbuilder/banner-2_1_.jpg"}}" alt=" Banner Molla " /> </a>
+<div class="banner-content text-right">
+<h4 class="banner-subtitle text-primary">Weekend Offer</h4>
+<img class="banner-title-img" src="{{media url="wysiwyg/fbuilder/banner-2-title.png"}}" alt="Banner 2" />
+<h4 class="banner-price">Save<span class="text-primary price">$19,99</span></h4>
+<a class="banner-link text-dark dark-primary" href="#">Buy Now<i class="icon-long-arrow-right"></i></a></div>
+</div>
+<div class="banner banner-overlay banner-sm content-right hide-tb hide-mb"><a href="#"> <img src="{{media url="wysiwyg/fbuilder/banner-3.jpg"}}" alt=" Banner Molla " /> </a>
+<div class="banner-content text-right"><img class="banner-title-img" src="{{media url="wysiwyg/fbuilder/banner-3-title.png"}}" alt="Banner 3" />
+<h5 class="text-white">35% OFF</h5>
+<a class="banner-link text-dark dark-primary" href="#">Buy Now<i class="icon-long-arrow-right"></i></a></div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[765]]></child_id>
+		<block_name><![CDATA[block276-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[4]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20"}]]></setting>
+		<col><![CDATA[3]]></col>
+		<class><![CDATA[col-tb-6 col-sm-6 ]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="banner banner-overlay banner-sm content-right align-center"><a href="#"> <img src="{{media url="wysiwyg/fbuilder/banner-4_1.jpg"}}" alt=" Banner Molla " /> </a>
+<div class="banner-content">
+<h4 class="banner-subtitle text-primary">Weekend Sale</h4>
+<img class="banner-title-img" src="{{media url="wysiwyg/fbuilder/banner-4-title.png"}}" alt="Banner-4" />
+<h4 class="banner-price"><span class="off">25% off</span></h4>
+<a class="banner-link text-dark dark-primary" href="#">Buy Now<i class="icon-long-arrow-right"></i></a></div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[766]]></child_id>
+		<block_name><![CDATA[block276-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[5]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[9]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="banner banner-overlay banner-lg align-center"><a href="#"> <img src="{{media url="wysiwyg/fbuilder/banner-5.jpg"}}" alt=" Banner Molla " /> </a>
+<div class="banner-content">
+<h4 class="banner-subtitle text-primary">Weekend Sale</h4>
+<img class="banner-title-img" style="margin-bottom: 10px;" src="{{media url="wysiwyg/fbuilder/banner-5-title.png"}}" alt="Banner-4" /> <a class="banner-link text-dark dark-primary" href="#">Pre-Order Now<i class="icon-long-arrow-right"></i></a></div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<fbuilder>
+		<general>
+			<container_width><![CDATA[1290]]></container_width>
+		</general>
+	</fbuilder>
+	<themesettings>
+		<general>
+			<background_color><![CDATA[#efefef]]></background_color>
+			<background_cover><![CDATA[0]]></background_cover>
+			<background_image><![CDATA[stores/12/bg-b1.jpg]]></background_image>
+			<background_position_x><![CDATA[center]]></background_position_x>
+			<background_position_y><![CDATA[top]]></background_position_y>
+			<background_repeat><![CDATA[no-repeat]]></background_repeat>
+			<color_primary><![CDATA[#fcb842]]></color_primary>
+			<custom_background><![CDATA[1]]></custom_background>
+			<custom_width><![CDATA[1290]]></custom_width>
+			<layout><![CDATA[boxed]]></layout>
+			<main_color><![CDATA[#fcb842]]></main_color>
+			<width><![CDATA[custom]]></width>
+		</general>
+		<header>
+			<header_version><![CDATA[header9]]></header_version>
+		</header>
+		<main>
+			<custom_primary_button><![CDATA[1]]></custom_primary_button>
+			<primary_button_background_color><![CDATA[#fcb941]]></primary_button_background_color>
+			<primary_button_background_hover_color><![CDATA[#cc9966]]></primary_button_background_hover_color>
+			<primary_button_border_color><![CDATA[#fcb941]]></primary_button_border_color>
+			<primary_button_border_hover_color><![CDATA[#cc9966]]></primary_button_border_hover_color>
+			<primary_button_text_color><![CDATA[#ffffff]]></primary_button_text_color>
+			<primary_button_text_hover_color><![CDATA[#ffffff]]></primary_button_text_hover_color>
+		</main>
+		<footer>
+			<footer_version><![CDATA[footer4]]></footer_version>
+		</footer>
+		<product_image_dimention>
+			<default_grid><![CDATA[300x450]]></default_grid>
+			<default_list><![CDATA[300x450]]></default_list>
+			<small_list><![CDATA[300x450]]></small_list>
+		</product_image_dimention>
+	</themesettings>
+</page>

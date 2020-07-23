@@ -1,0 +1,921 @@
+<page>
+	<section>
+		<name><![CDATA[block103]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<no_padding><![CDATA[1]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[1]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block133]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<no_padding><![CDATA[1]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[50]]></padding_bottom>
+		<block_position><![CDATA[2]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block134]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[6,6]]></block_cols>
+		<tablet_cols><![CDATA[["6","6"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["",""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[65]]></padding_bottom>
+		<block_position><![CDATA[3]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block135]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[50]]></padding_bottom>
+		<block_position><![CDATA[4]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block136]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[video-banner-bg]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[/b/g/bg-2_3.jpg]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[1]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[185]]></padding_top>
+		<padding_bottom><![CDATA[175]]></padding_bottom>
+		<block_position><![CDATA[5]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block137]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[6,6]]></block_cols>
+		<tablet_cols><![CDATA[["12","12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["product-set",""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[60]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[6]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block138]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[]]></tablet_cols>
+		<mobile_cols><![CDATA[]]></mobile_cols>
+		<block_class><![CDATA[]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[]]></background_repeat>
+		<background_cover><![CDATA[]]></background_cover>
+		<parallax><![CDATA[]]></parallax>
+		<fullwidth><![CDATA[]]></fullwidth>
+		<no_padding><![CDATA[]]></no_padding>
+		<hide_desktop><![CDATA[]]></hide_desktop>
+		<hide_tablet><![CDATA[]]></hide_tablet>
+		<hide_mobile><![CDATA[]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[7]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block139]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[]]></tablet_cols>
+		<mobile_cols><![CDATA[]]></mobile_cols>
+		<block_class><![CDATA[]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[]]></background_repeat>
+		<background_cover><![CDATA[]]></background_cover>
+		<parallax><![CDATA[]]></parallax>
+		<fullwidth><![CDATA[]]></fullwidth>
+		<no_padding><![CDATA[]]></no_padding>
+		<hide_desktop><![CDATA[]]></hide_desktop>
+		<hide_tablet><![CDATA[]]></hide_tablet>
+		<hide_mobile><![CDATA[]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[8]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block140]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[cta-separator-big]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[58]]></padding_bottom>
+		<block_position><![CDATA[9]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block141]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[instagram-feed]]></class>
+		<background><![CDATA[#fafafa]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[70]]></padding_top>
+		<padding_bottom><![CDATA[0]]></padding_bottom>
+		<block_position><![CDATA[10]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block143]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[box-side-big]]></class>
+		<background><![CDATA[#fafafa]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[30]]></padding_top>
+		<padding_bottom><![CDATA[40]]></padding_bottom>
+		<block_position><![CDATA[11]]></block_position>
+	</section>
+	<block>
+		<child_id><![CDATA[462]]></child_id>
+		<block_name><![CDATA[block103-0]]></block_name>
+		<type><![CDATA[owl_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"block_link":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","removeimg":["","","","","","","","","","","","","","","","","","","","","","","","","","",""],"html_slider":"266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/slide-1_2.jpg)262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/slide-1_2.jpg262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bbg-image intro-content text-center262333346368616e67653b2667746368616e67653b\r\n                            266c746368616e67653bh3 class=262333346368616e67653bintro-subtitle text-white262333346368616e67653b2667746368616e67653bDon\u2019t Miss266c746368616e67653b\/h32667746368616e67653b266c746368616e67653b!-- End .h3 intro-subtitle --2667746368616e67653b\r\n                            266c746368616e67653bh1 class=262333346368616e67653bflamingregular intro-title text-white262333346368616e67653b2667746368616e67653bMystery Deals266c746368616e67653b\/h12667746368616e67653b266c746368616e67653b!-- End .intro-title --2667746368616e67653b\r\n                            266c746368616e67653bdiv class=262333346368616e67653bintro-text text-white262333346368616e67653b2667746368616e67653bOnline Only266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b!-- End .intro-text --2667746368616e67653b\r\n                            266c746368616e67653ba href=262333346368616e67653bcategory.html262333346368616e67653b class=262333346368616e67653bbtn btn-height-big  text-white btn-default-dark btn-round 262333346368616e67653b2667746368616e67653b DISCOVER NOW266c746368616e67653b\/a2667746368616e67653b\r\n                        266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/slide-2_2.jpg)262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/slide-2_2.jpg262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bbg-image intro-content text-center262333346368616e67653b2667746368616e67653b\r\n                            266c746368616e67653bh3 class=262333346368616e67653bintro-subtitle text-white262333346368616e67653b2667746368616e67653bLimited time only266c746368616e67653b\/h32667746368616e67653b266c746368616e67653b!-- End .h3 intro-subtitle --2667746368616e67653b\r\n                            266c746368616e67653bh1 class=262333346368616e67653bflamingregular intro-title text-white262333346368616e67653b2667746368616e67653bTreat your self266c746368616e67653b\/h12667746368616e67653b266c746368616e67653b!-- End .intro-title --2667746368616e67653b\r\n                            266c746368616e67653bdiv class=262333346368616e67653bintro-text text-white262333346368616e67653b2667746368616e67653bUp to 50% off266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b!-- End .intro-text --2667746368616e67653b\r\n266c746368616e67653ba href=262333346368616e67653bcategory.html262333346368616e67653b class=262333346368616e67653bbtn btn-height-big text-white btn-default-dark btn-round 262333346368616e67653b2667746368616e67653b SHOP NOW266c746368616e67653b\/a2667746368616e67653b\r\n 266c746368616e67653b\/div2667746368616e67653b\r\n\r\n\r\n266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b","items":"1","items_tablet":"1","items_mobile":"1","preload":"1","height_preload":"","slide_margin":"","fullheight":"1","speed":"","navigation_position":"middle-inside","nav_top":"-55","pagination_position":"center","autoplay":0,"stop_auto":0,"navigation":0,"pagination":0,"loop":0,"rtl":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[intro-slider v3]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\OwlCarousel" autoplay="0" stop_auto="0" navigation="0" hide_nav="0" nav_top="-55" navigation_position="middle-inside" pagination_position="center" fullheight="1" preload="1"height_preload="" pagination="0" loop="0" rtl="0" speed="" items="1" items_tablet="1" items_mobile="1" slide_margin="" html_slider="266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/slide-1_2.jpg)262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/slide-1_2.jpg262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bbg-image intro-content text-center262333346368616e67653b2667746368616e67653b
+                            266c746368616e67653bh3 class=262333346368616e67653bintro-subtitle text-white262333346368616e67653b2667746368616e67653bDon&rsquo;t Miss266c746368616e67653b/h32667746368616e67653b266c746368616e67653b!-- End .h3 intro-subtitle --2667746368616e67653b
+                            266c746368616e67653bh1 class=262333346368616e67653bflamingregular intro-title text-white262333346368616e67653b2667746368616e67653bMystery Deals266c746368616e67653b/h12667746368616e67653b266c746368616e67653b!-- End .intro-title --2667746368616e67653b
+                            266c746368616e67653bdiv class=262333346368616e67653bintro-text text-white262333346368616e67653b2667746368616e67653bOnline Only266c746368616e67653b/div2667746368616e67653b266c746368616e67653b!-- End .intro-text --2667746368616e67653b
+                            266c746368616e67653ba href=262333346368616e67653bcategory.html262333346368616e67653b class=262333346368616e67653bbtn btn-height-big  text-white btn-default-dark btn-round 262333346368616e67653b2667746368616e67653b DISCOVER NOW266c746368616e67653b/a2667746368616e67653b
+                        266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/slide-2_2.jpg)262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/slide-2_2.jpg262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bbg-image intro-content text-center262333346368616e67653b2667746368616e67653b
+                            266c746368616e67653bh3 class=262333346368616e67653bintro-subtitle text-white262333346368616e67653b2667746368616e67653bLimited time only266c746368616e67653b/h32667746368616e67653b266c746368616e67653b!-- End .h3 intro-subtitle --2667746368616e67653b
+                            266c746368616e67653bh1 class=262333346368616e67653bflamingregular intro-title text-white262333346368616e67653b2667746368616e67653bTreat your self266c746368616e67653b/h12667746368616e67653b266c746368616e67653b!-- End .intro-title --2667746368616e67653b
+                            266c746368616e67653bdiv class=262333346368616e67653bintro-text text-white262333346368616e67653b2667746368616e67653bUp to 50% off266c746368616e67653b/div2667746368616e67653b266c746368616e67653b!-- End .intro-text --2667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653bcategory.html262333346368616e67653b class=262333346368616e67653bbtn btn-height-big text-white btn-default-dark btn-round 262333346368616e67653b2667746368616e67653b SHOP NOW266c746368616e67653b/a2667746368616e67653b
+ 266c746368616e67653b/div2667746368616e67653b
+
+
+266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b" template="widget/owl_slider.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[463]]></child_id>
+		<block_name><![CDATA[block133-0]]></block_name>
+		<type><![CDATA[owl_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"block_link":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","removeimg":["","","","","","","","","","","","","","","","","",""],"html_slider":"266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/1.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/1.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/2.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/2.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/3.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/3.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/4.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/4.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/5.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/5.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/6.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/6.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/7.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/7.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/8.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/8.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/9.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp:\/\/gpm.arrowhitech.net\/molla\/pub\/media\/wysiwyg\/slider\/9.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b\/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b266c746368616e67653b\/div2667746368616e67653b","items":"7","items_tablet":"4","items_mobile":"2","preload":"1","height_preload":"","slide_margin":"","speed":"","navigation_position":"middle-inside","nav_top":"-55","pagination_position":"center","autoplay":0,"stop_auto":0,"navigation":0,"pagination":0,"loop":0,"fullheight":0,"rtl":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[brand-slider]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\OwlCarousel" autoplay="0" stop_auto="0" navigation="0" hide_nav="0" nav_top="-55" navigation_position="middle-inside" pagination_position="center" fullheight="0" preload="1"height_preload="" pagination="0" loop="0" rtl="0" speed="" items="7" items_tablet="4" items_mobile="2" slide_margin="" html_slider="266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/1.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/1.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/2.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/2.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/3.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/3.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/4.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/4.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/5.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/5.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/6.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/6.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/7.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/7.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/8.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/8.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653bdiv data-text-position=262333346368616e67653bmiddle262333346368616e67653b data-text-animate=262333346368616e67653b262333346368616e67653b data-text-align=262333346368616e67653btext-align-left262333346368616e67653b class=262333346368616e67653bitem  text-align-left262333346368616e67653b2667746368616e67653b266c746368616e67653ba style=262333346368616e67653bbackground-image:url(http://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/9.png)262333346368616e67653b class=262333346368616e67653bitem-image262333346368616e67653b href=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653bimg class=262333346368616e67653bimg-responsive 262333346368616e67653b src=262333346368616e67653bhttp://gpm.arrowhitech.net/molla/pub/media/wysiwyg/slider/9.png262333346368616e67653b alt=262333346368616e67653b262333346368616e67653b2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653bslide-text middle262333346368616e67653b2667746368616e67653b266c746368616e67653bdiv class=262333346368616e67653binner-text262333346368616e67653b2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b266c746368616e67653b/div2667746368616e67653b" template="widget/owl_slider.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[464]]></child_id>
+		<block_name><![CDATA[block134-0]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20","banner_image":"\/b\/a\/banner-1_8.jpg","url":"","text_content":"<div class=\"banner-content\">\r\n<h4 class=\"banner-subtitle\"><a href=\"#\">Trending now<\/a><\/h4><!-- End .banner-subtitle -->\r\n<h3 class=\"banner-title\"><a href=\"#\"><span>This Week's<br>Most Wanted<\/span><\/a><\/h3><!-- End .banner-title -->\r\n<a href=\"#\" class=\"btn btn-link icon-right text-white\"> DISCOVER NOW<\/a>\r\n <\/div>","button_text":"","text_align":"middle-left","effect":"mist","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[banner-border]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/a/banner-1_8.jpg" url="" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content262333346368616e67653b2667746368616e67653b
+266c746368616e67653bh4 class=262333346368616e67653bbanner-subtitle262333346368616e67653b2667746368616e67653b266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b2667746368616e67653bTrending now266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h42667746368616e67653b266c746368616e67653b!-- End .banner-subtitle --2667746368616e67653b
+266c746368616e67653bh3 class=262333346368616e67653bbanner-title262333346368616e67653b2667746368616e67653b266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b2667746368616e67653b266c746368616e67653bspan2667746368616e67653bThis Week262333396368616e67653bs266c746368616e67653bbr2667746368616e67653bMost Wanted266c746368616e67653b/span2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b266c746368616e67653b!-- End .banner-title --2667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b class=262333346368616e67653bbtn btn-link icon-right text-white262333346368616e67653b2667746368616e67653b DISCOVER NOW266c746368616e67653b/a2667746368616e67653b
+ 266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="middle-left" effect="mist" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[465]]></child_id>
+		<block_name><![CDATA[block134-1]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20","banner_image":"\/b\/a\/banner-2_9.jpg","url":"","text_content":"<div class=\"banner-content\">\r\n<h4 class=\"banner-subtitle\"><a href=\"#\">Limited time only.<\/a><\/h4><!-- End .banner-subtitle -->\r\n <h3 class=\"banner-title\"><a href=\"#\"><span>Trainers & Sportwear<br>Sale Up to 70% off<\/span><\/a><\/h3><!-- End .banner-title -->\r\n<a href=\"#\" class=\"btn btn-link icon-right text-dark\">SHOP NOW <\/a>\r\n <\/div>","button_text":"","text_align":"middle-left","effect":"mist","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/a/banner-2_9.jpg" url="" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content262333346368616e67653b2667746368616e67653b
+266c746368616e67653bh4 class=262333346368616e67653bbanner-subtitle262333346368616e67653b2667746368616e67653b266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b2667746368616e67653bLimited time only.266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h42667746368616e67653b266c746368616e67653b!-- End .banner-subtitle --2667746368616e67653b
+ 266c746368616e67653bh3 class=262333346368616e67653bbanner-title262333346368616e67653b2667746368616e67653b266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b2667746368616e67653b266c746368616e67653bspan2667746368616e67653bTrainers & Sportwear266c746368616e67653bbr2667746368616e67653bSale Up to 70% off266c746368616e67653b/span2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b266c746368616e67653b!-- End .banner-title --2667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b class=262333346368616e67653bbtn btn-link icon-right text-dark262333346368616e67653b2667746368616e67653bSHOP NOW 266c746368616e67653b/a2667746368616e67653b
+ 266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="middle-left" effect="mist" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[466]]></child_id>
+		<block_name><![CDATA[block134-1]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","banner_image":"\/b\/a\/banner-3_6.jpg","url":"","text_content":"<div class=\"banner-content\">\r\n                                    <h4 class=\"banner-subtitle\"><a href=\"#\">This week we love...<\/a><\/h4><!-- End .banner-subtitle -->\r\n                                    <h3 class=\"banner-title\"><a href=\"#\"><span>Womens <br>Holiday Clothes<\/span><\/a><\/h3><!-- End .banner-title -->\r\n                                    <a href=\"#\" class=\"btn btn-link icon-right text-dark\">DISCOVER NOW<\/a>\r\n                                <\/div>","button_text":"","text_align":"middle-left","effect":"mist","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/a/banner-3_6.jpg" url="" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content262333346368616e67653b2667746368616e67653b
+                                    266c746368616e67653bh4 class=262333346368616e67653bbanner-subtitle262333346368616e67653b2667746368616e67653b266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b2667746368616e67653bThis week we love...266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h42667746368616e67653b266c746368616e67653b!-- End .banner-subtitle --2667746368616e67653b
+                                    266c746368616e67653bh3 class=262333346368616e67653bbanner-title262333346368616e67653b2667746368616e67653b266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b2667746368616e67653b266c746368616e67653bspan2667746368616e67653bWomens 266c746368616e67653bbr2667746368616e67653bHoliday Clothes266c746368616e67653b/span2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b266c746368616e67653b!-- End .banner-title --2667746368616e67653b
+                                    266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b class=262333346368616e67653bbtn btn-link icon-right text-dark262333346368616e67653b2667746368616e67653bDISCOVER NOW266c746368616e67653b/a2667746368616e67653b
+                                266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="middle-left" effect="mist" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[467]]></child_id>
+		<block_name><![CDATA[block135-0]]></block_name>
+		<type><![CDATA[heading]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","heading":"h2","subtitle":"Trendy Products","heading_align":"center","heading_font_size":"30","heading_color":"#333333","heading_background":"","border_style":"solid","border_position":"bottom","border_color":"","border_container_width":"","border_width":"","border_margin":"","heading_fontweight":0,"heading_italic":0,"heading_uppercase":0,"show_border":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[title-lg]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="Magento\Framework\View\Element\Template" heading="h2" fbuilder_subtitle="Trendy Products" heading_align="center" heading_fontweight="0" heading_italic="0" heading_uppercase="0" show_border="0" border_style="solid" border_position="bottom" template="MGS_Fbuilder::widget/heading.phtml"}}]]></block_content>
+		<custom_style><![CDATA[.block467 .mgs-heading .heading{font-size:30px}.block467 .mgs-heading .heading{color:#333333}]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[468]]></child_id>
+		<block_name><![CDATA[block136-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="video-banner-text text-center ">
+<h3 class="video-banner-title h1 text-white"><span class="sub-title">New Collection</span><strong>Winter'19 <i>/</i> Spring&rsquo;20</strong></h3>
+<a class="  btn-iframe popup-video" title="#" href="https://www.youtube.com/watch?v=50y5-cTDJTw"> <i class="icon-play"></i> </a></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[470]]></child_id>
+		<block_name><![CDATA[block137-1]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","banner_image":"\/b\/a\/banner-4_4.jpg","url":"","text_content":"<div class=\"banner-content\">\r\n<h3 class=\"banner-title\"><a class=' text-white' href=\"#\" title=\"banner\"><span>Casual basics and<br>trendy key pieces.<\/span><\/a><\/h3><!-- End .banner-title -->\r\n<h4 class=\"banner-subtitle text-white\">in this look<\/h4>\r\n<!-- End .banner-subtitle -->\r\n<h4 class=\"banner-detail text-white\">\u2022 Rib-knit cardigan <br>\u2022 Linen-blend paper bag trousers<\/h4>\r\n<h4 class=\"banner-price text-white\">$19.99 - $48.00<\/h4>\r\n<a href=\"#\" class=\"btn btn-default-dark btn-round\">Buy All<\/a>\r\n<\/div>","button_text":"","text_align":"bottom-left","effect":"mist","text_color":"","button_background":"","button_color":"","button_border":"","button_hover_background":"","button_hover_color":"","button_hover_border":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[bg-image banner-set-image]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Widget\PromoBanner" banner_image="/b/a/banner-4_4.jpg" url="" fbuilder_text_content="266c746368616e67653bdiv class=262333346368616e67653bbanner-content262333346368616e67653b2667746368616e67653b
+266c746368616e67653bh3 class=262333346368616e67653bbanner-title262333346368616e67653b2667746368616e67653b266c746368616e67653ba class=262333396368616e67653b text-white262333396368616e67653b href=262333346368616e67653b#262333346368616e67653b title=262333346368616e67653bbanner262333346368616e67653b2667746368616e67653b266c746368616e67653bspan2667746368616e67653bCasual basics and266c746368616e67653bbr2667746368616e67653btrendy key pieces.266c746368616e67653b/span2667746368616e67653b266c746368616e67653b/a2667746368616e67653b266c746368616e67653b/h32667746368616e67653b266c746368616e67653b!-- End .banner-title --2667746368616e67653b
+266c746368616e67653bh4 class=262333346368616e67653bbanner-subtitle text-white262333346368616e67653b2667746368616e67653bin this look266c746368616e67653b/h42667746368616e67653b
+266c746368616e67653b!-- End .banner-subtitle --2667746368616e67653b
+266c746368616e67653bh4 class=262333346368616e67653bbanner-detail text-white262333346368616e67653b2667746368616e67653b• Rib-knit cardigan 266c746368616e67653bbr2667746368616e67653b• Linen-blend paper bag trousers266c746368616e67653b/h42667746368616e67653b
+266c746368616e67653bh4 class=262333346368616e67653bbanner-price text-white262333346368616e67653b2667746368616e67653b$19.99 - $48.00266c746368616e67653b/h42667746368616e67653b
+266c746368616e67653ba href=262333346368616e67653b#262333346368616e67653b class=262333346368616e67653bbtn btn-default-dark btn-round262333346368616e67653b2667746368616e67653bBuy All266c746368616e67653b/a2667746368616e67653b
+266c746368616e67653b/div2667746368616e67653b" fbuilder_button_text="" text_align="bottom-left" effect="mist" template="widget/promobanner.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[471]]></child_id>
+		<block_name><![CDATA[block138-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"62","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"60"}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<hr />]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[472]]></child_id>
+		<block_name><![CDATA[block139-0]]></block_name>
+		<type><![CDATA[heading]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","heading":"h3","subtitle":"New Arivals","heading_align":"center","heading_font_size":"30","heading_color":"#333333","heading_background":"","border_style":"solid","border_position":"bottom","border_color":"","border_container_width":"","border_width":"","border_margin":"","heading_fontweight":0,"heading_italic":0,"heading_uppercase":0,"show_border":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[title-semibold]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="Magento\Framework\View\Element\Template" heading="h3" fbuilder_subtitle="New Arivals" heading_align="center" heading_fontweight="0" heading_italic="0" heading_uppercase="0" show_border="0" border_style="solid" border_position="bottom" template="MGS_Fbuilder::widget/heading.phtml"}}]]></block_content>
+		<custom_style><![CDATA[.block472 .mgs-heading .heading{font-size:30px}.block472 .mgs-heading .heading{color:#333333}]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[473]]></child_id>
+		<block_name><![CDATA[block140-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="cta cta-border">
+<div class="cta-border-wrapper bg-white">
+<div class="line">
+<div class="col-des-6 col-tb-6  col-mb-12">
+<div class="cta-wrapper cta-text text-center">
+<h3 class="title">Shop Social</h3>
+<!-- End .cta-title -->
+<p class="sub-title">Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.</p>
+<!-- End .cta-desc -->
+<div class="social-icons social-icons-colored justify-content-center">
+<a href="#" class="social-icon social-facebook" title="Facebook" target="_blank"><i class="icon-facebook-f"></i></a>
+ <a href="#" class="social-icon social-twitter" title="Twitter" target="_blank"><i class="icon-twitter"></i></a>
+<a href="#" class="social-icon social-instagram" title="Instagram" target="_blank"><i class="icon-instagram"></i></a>
+<a href="#" class="social-icon social-youtube" title="Youtube" target="_blank"><i class="icon-youtube"></i></a>
+<a href="#" class="social-icon social-pinterest" title="Pinterest" target="_blank"><i class="icon-pinterest"></i></a>
+</div>
+<!-- End .soial-icons --></div>
+<!-- End .cta-wrapper --></div>
+<!-- End .col-lg-6 -->
+<div class="col-des-6 col-tb-6  col-mb-12">
+<div class="cta-wrapper text-center">
+<h3 class="title">Get the Latest Deals</h3>
+<!-- End .cta-title -->
+<p class="sub-title">and <br />receive <span class="text-primary">$20 coupon</span> for first shopping</p>
+<!-- End .cta-desc -->
+<div class="conts-newsletter">{{block class="Magento\Newsletter\Block\Subscribe" template="Magento_Newsletter::subscribe.phtml"}}</div>
+</div>
+<!-- End .cta-wrapper --></div>
+<!-- End .col-lg-6 --></div>
+<!-- End .row --></div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[475]]></child_id>
+		<block_name><![CDATA[block139-0]]></block_name>
+		<type><![CDATA[category_products]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","limit":"8","perrow":"4","perrow_tablet":"3","perrow_mobile":"2","numbercol":"1","percol":"","template":"grid.phtml","cate_link":"1","number_row":"1","navigation_position":"middle-inside","nav_top":"-45","pagination_position":"center","slide_by":"0","slide_margin":"30","category_id":["129","130","131","135"],"use_tabs":"1","tab_style":"style5","tab_uppercase":"1","tab_align":"center","font_size":"15","tab_primary_color":"#cc6666","tab_secondary_color":"","tab_third_color":"","use_slider":0,"autoplay":0,"stop_auto":0,"rtl":0,"navigation":0,"loop":0,"pagination":0,"tab_ajax":0,"hide_name":0,"hide_review":0,"hide_price":0,"hide_addcart":0,"hide_addwishlist":0,"hide_addcompare":0,"tab_font_bold":0,"tab_italic":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[title-small]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Products\Category" block_type="catproduct" limit="8" category_ids="129,130,131,135" use_slider="0" cate_link="1" hide_name="0" hide_review="0" hide_price="0" hide_addcart="0" mode="grid.phtml" hide_addwishlist="0" hide_addcompare="0" perrow="4" perrow_tablet="3" perrow_mobile="2" use_ajax="0" tab_style="style5" tab_uppercase="1" tab_align="center" template="products/category-tabs.phtml"}}]]></block_content>
+		<custom_style><![CDATA[.block475 .mgs-tab.data.items > .item.title > .switch{font-size:15px;}.block475 .mgs-product-tab .tab-style5.data.items .item.title.active .switch, .block475 .mgs-product-tab .tab-style5.data.items .item.title .switch:hover{color: #cc6666 !important}.block475 .mgs-product-tab .tab-style5.data.items .item.title.active .switch:after{background-color: #cc6666;}]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[479]]></child_id>
+		<block_name><![CDATA[block141-0]]></block_name>
+		<type><![CDATA[instagram]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","limit":"10","perrow":"5","perrow_tablet":"4","perrow_mobile":"2","resolution":"low_resolution","link":"1","like":"1","comment":"1","number_row":"1","navigation_position":"middle-inside","nav_top":"-45","pagination_position":"center","slide_by":"","slide_margin":"30","use_slider":0,"autoplay":0,"stop_auto":0,"rtl":0,"loop":0,"navigation":0,"pagination":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Social\Instagram" limit="10" resolution="low_resolution" link="1" perrow="5" perrow_tablet="4" perrow_mobile="2" use_slider="0" like="1" comment="1" template="widget/socials/instagram.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[480]]></child_id>
+		<block_name><![CDATA[block141-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[0]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[title-instagram-block]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="d-flex d-flex-wrap align-items-center bg-white instagram-feed-title"><i class="icon-instagram"></i>
+<p>@Molla_store <br />on instagram</p>
+<a class="text-primary link" title="Follow" href="#">FOLLOW</a></div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[481]]></child_id>
+		<block_name><![CDATA[block143-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"20","padding_left":"","padding_right":"","padding_bottom":"20","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[4]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box  icon-box-side icon-box-left"><span class="icon-box-icon text-dark"><i class="icon-rocket"></i></span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Payment &amp; Delivery</h3>
+<!-- End .icon-box-title -->
+<p>Free shipping for orders over $50</p>
+</div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[482]]></child_id>
+		<block_name><![CDATA[block143-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"20","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"20"}]]></setting>
+		<col><![CDATA[4]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-side icon-box-left"><span class="icon-box-icon text-dark"><i class="icon-refresh"></i></span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Return &amp; Refund</h3>
+<!-- End .icon-box-title -->
+<p>Free 100% money back guarantee</p>
+</div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[483]]></child_id>
+		<block_name><![CDATA[block143-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[3]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"20","padding_left":"","padding_right":"","padding_bottom":"20","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[4]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="icon-box icon-box-side icon-box-left"><span class="icon-box-icon text-dark"><i class="icon-life-ring"></i></span>
+<div class="icon-box-content">
+<h3 class="icon-box-title">Quality Support</h3>
+<!-- End .icon-box-title -->
+<p>Alway online feedback 24/7</p>
+</div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[555]]></child_id>
+		<block_name><![CDATA[block137-0]]></block_name>
+		<type><![CDATA[special_product]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","product_name_temp":"Rib-knit cardigan","product_id":"316","hide_review":"1","hide_addcart":"1","hide_addwishlist":"1","hide_addcompare":"1","hide_description":"1","truncate":"","hide_name":0,"hide_price":0}]]></setting>
+		<col><![CDATA[4]]></col>
+		<class><![CDATA[col-tb-5 col-mb-6 banner-set-products]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Products\SpecialProduct" product_id="316" hide_name="0" hide_review="1" hide_price="0" hide_addcart="1" hide_addwishlist="1" hide_addcompare="1" hide_description="1" truncate="" template="products/single/default.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[556]]></child_id>
+		<block_name><![CDATA[block137-0]]></block_name>
+		<type><![CDATA[special_product]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","product_name_temp":"Linen-blend paper bag trousers","product_id":"308","hide_review":"1","hide_addcart":"1","hide_addwishlist":"1","hide_addcompare":"1","hide_description":"1","truncate":"","hide_name":0,"hide_price":0}]]></setting>
+		<col><![CDATA[4]]></col>
+		<class><![CDATA[col-tb-5 col-mb-6 banner-set-products]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Products\SpecialProduct" product_id="308" hide_name="0" hide_review="1" hide_price="0" hide_addcart="1" hide_addwishlist="1" hide_addcompare="1" hide_description="1" truncate="" template="products/single/default.phtml"}}]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[557]]></child_id>
+		<block_name><![CDATA[block137-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[0]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"40"}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="text-center set-content-wrapper">
+<h4 class="sub-title text-primary">Special</h4>
+<h2 class="title">Refine Your Style.</h2>
+<p>Get on our exclusive email list and be the first to hear about sales, coupons, new arrivals and more!</p>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[563]]></child_id>
+		<block_name><![CDATA[block135-0]]></block_name>
+		<type><![CDATA[attribute_products]]></type>
+		<position><![CDATA[2]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":"","attribute":"trending","limit":"6","perrow":"4","perrow_tablet":"3","perrow_mobile":"2","numbercol":"1","percol":"","template":"grid.phtml","use_slider":"1","number_row":"1","navigation":"1","navigation_position":"middle-outside","nav_top":"-45","pagination":"1","pagination_position":"center","slide_by":"0","slide_margin":"30","category_id":["129","133","134","147"],"use_tabs":"1","tab_style":"style5","tab_uppercase":"1","tab_align":"center","font_size":"15","tab_primary_color":"#cc6666","tab_secondary_color":"","tab_third_color":"","autoplay":0,"stop_auto":0,"rtl":0,"loop":0,"tab_ajax":0,"hide_name":0,"hide_review":0,"hide_price":0,"hide_addcart":0,"hide_addwishlist":0,"hide_addcompare":0,"tab_font_bold":0,"tab_italic":0,"hide_nav":0}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[carousel-equal-height title-small]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[{{block class="MGS\Fbuilder\Block\Products\Attributes" block_type="attribute" attribute="trending" limit="6" category_ids="129,133,134,147" use_slider="1" hide_name="0" hide_review="0" hide_price="0" hide_addcart="0" hide_addwishlist="0" hide_addcompare="0" perrow="4" perrow_tablet="3" perrow_mobile="2" autoplay="0" stop_auto="0" navigation="1" hide_nav="0" nav_top="-45" navigation_position="middle-outside" pagination_position="center" pagination="1" number_row="1" slide_by="0" loop="0" rtl="0" slide_margin="30" use_ajax="0" tab_style="style5" tab_uppercase="1" tab_align="center" template="products/category-tabs.phtml"}}]]></block_content>
+		<custom_style><![CDATA[.block563 .mgs-tab.data.items > .item.title > .switch{font-size:15px;}.block563 .mgs-product-tab .tab-style5.data.items .item.title.active .switch, .block563 .mgs-product-tab .tab-style5.data.items .item.title .switch:hover{color: #cc6666 !important}.block563 .mgs-product-tab .tab-style5.data.items .item.title.active .switch:after{background-color: #cc6666;}]]></custom_style>
+	</block>
+	<fbuilder>
+		<font_style>
+			<custom_style><![CDATA[@media (max-width: 991px){
+.header-area .megamenu_action_mb {
+color: #fff;
+}
+}
+.header-area .horizontal-menu .mgs-megamenu--main ul li a.view-all-demos {
+color: #cc6666;
+}.header-area .horizontal-menu .mgs-megamenu--main ul li a.view-all-demos:hover {
+color: #fff;
+}
+aside.modal-popup.confirm._show {
+    z-index: 9999 !important;
+}
+
+aside.modal-popup.confirm._show + .modals-overlay {
+    z-index: 9998 !important;
+}
+.cms-index-index .columns .column.main {
+padding-bottom: 0;
+}
+.page-footer .footer.content {
+margin-top: 0;
+}
+.top-wishlist .block.block-wishlist .product-item .product-item-info .product-item-details .action.quickview {
+display: none;
+}
+.page-main > .page-title-wrapper.layout_type2 .breadcrumbs .items {
+    padding: 16px 10px 13px;
+}
+.page-main > .page-title-wrapper.layout_type2  .breadcrumbs {
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(235, 235, 235, 0.55);
+}
+.modal-popup.ajaxCartForm.viewBox.modal-slide .modal-inner-wrap .modal-content .catalog-product-view .column.main .product-info-main > div.price-box.price-tier_price {
+margin-bottom: 0;
+}
+.success-ajax--popup .ajax_cart-popup .popup__column .popup__column--result .product-confirm-detail .product-confirm-name {
+line-height: 1;
+}
+.product-image-photo { 
+width: 100%;
+}
+
+@media screen and (max-width: 991px) and (min-width: 768px) {
+.product-info-main .box-tocart .actions, .product-options-bottom .box-tocart .actions {
+    margin-right: 30px;
+}
+}
+.modal-popup.confirm .modal-inner-wrap .modal-content > div {
+    font-weight: 500;
+    font-size: 15px !important;
+    line-height: 1.42857143;
+}]]></custom_style>
+		</font_style>
+	</fbuilder>
+	<themesettings>
+		<general>
+			<color_primary><![CDATA[#cc6666]]></color_primary>
+		</general>
+		<header>
+			<header_absolute><![CDATA[1]]></header_absolute>
+			<header_version><![CDATA[header4]]></header_version>
+		</header>
+		<main>
+			<link_hover_color><![CDATA[#cc6666]]></link_hover_color>
+			<primary_button_background_color><![CDATA[#cc6666]]></primary_button_background_color>
+			<primary_button_background_hover_color><![CDATA[#c15454]]></primary_button_background_hover_color>
+			<primary_button_border_color><![CDATA[#cc6666]]></primary_button_border_color>
+			<primary_button_border_hover_color><![CDATA[#c15454]]></primary_button_border_hover_color>
+			<primary_button_text_color><![CDATA[#ffffff]]></primary_button_text_color>
+			<primary_button_text_hover_color><![CDATA[#ffffff]]></primary_button_text_hover_color>
+		</main>
+		<footer>
+			<footer_version><![CDATA[footer2]]></footer_version>
+		</footer>
+		<product_image_dimention>
+			<default_grid><![CDATA[600x800]]></default_grid>
+			<default_list><![CDATA[600x800]]></default_list>
+			<mini_cart><![CDATA[600x800]]></mini_cart>
+		</product_image_dimention>
+	</themesettings>
+</page>

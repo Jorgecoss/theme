@@ -1,0 +1,202 @@
+<page>
+	<section>
+		<name><![CDATA[block96]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[notfound-content]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[/e/r/error-bg_6.jpg]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[125]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[1]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block123]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<no_padding><![CDATA[0]]></no_padding>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[0]]></block_position>
+	</section>
+	<block>
+		<child_id><![CDATA[344]]></child_id>
+		<block_name><![CDATA[block96-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[content-error]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<h1 style="text-align: center;">Error 404</h1>
+<p style="text-align: center;">We are sorry, the page you've requested is not available.</p>
+<p style="text-align: center;"><a class="btn btn-default  btn-rounded icon-right" >BACK TO HOMEPAGE</a></p>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<block>
+		<child_id><![CDATA[478]]></child_id>
+		<block_name><![CDATA[block123-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"main_block_color":"","animation":"","animation_delay":"","margin_top":"","margin_left":"","padding_top":"","padding_left":"","padding_right":"","padding_bottom":"","margin_right":"","margin_bottom":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_gradient><![CDATA[0]]></background_gradient>
+		<background_gradient_from><![CDATA[]]></background_gradient_from>
+		<background_gradient_to><![CDATA[]]></background_gradient_to>
+		<background_gradient_orientation><![CDATA[horizontal]]></background_gradient_orientation>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<hide_desktop><![CDATA[0]]></hide_desktop>
+		<hide_tablet><![CDATA[0]]></hide_tablet>
+		<hide_mobile><![CDATA[0]]></hide_mobile>
+		<block_content><![CDATA[<div class="container">
+<div class="breadcrumbs">
+<ul class="items">
+<li class="item Home"><a title="Home" href="/"> Home </a></li>
+<li class="item Pages"><a title="Pages" href="/"> Pages </a></li>
+<li class="item 404"><strong>404</strong></li>
+</ul>
+</div>
+</div>]]></block_content>
+		<custom_style><![CDATA[]]></custom_style>
+	</block>
+	<fbuilder>
+		<font_style>
+			<custom_style><![CDATA[.header-area .category-dropdown:not(.category-market):hover .title-vertical-menu, .header-area .category-dropdown:not(.category-market):focus .title-vertical-menu {
+background-color: #a6c76d;
+}
+.header-area .horizontal-menu .mgs-megamenu--main ul li a.view-all-demos {
+font-weight: 400;
+color: #a6c76d;
+}
+@media (min-width: 991px){
+.header-area .horizontal-menu .mgs-megamenu--main ul li a, 
+.header-area .category-dropdown .title-vertical-menu {
+font-weight: 500;
+}
+.megamenu-action .view-all-demos,  {
+font-weight: 400;
+}
+}
+aside.modal-popup.confirm._show {
+    z-index: 9999 !important;
+}
+
+aside.modal-popup.confirm._show + .modals-overlay {
+    z-index: 9998 !important;
+}
+.cms-index-index  .page-wrapper .page-main .column {
+padding-bottom: 0;
+}
+.cms-index-index  .page-wrapper .page-footer .footer {
+margin-top: 0;
+}
+.product-item .mage-error{
+	display: none !important;
+}
+.top-wishlist .block.block-wishlist .product-item .product-item-info .product-item-details .action.quickview {
+display: none;
+}
+.page-main > .page-title-wrapper.layout_type2 .breadcrumbs .items {
+    padding: 16px 10px 13px;
+}
+.page-main > .page-title-wrapper.layout_type2  .breadcrumbs {
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(235, 235, 235, 0.55);
+}
+.page-wrapper > .breadcrumbs {
+    margin-bottom: 0;
+}
+
+.latest-post-grid-block .owl-carousel .owl-stage-outer {
+height: auto !important;
+}
+
+.modal-popup.ajaxCartForm.viewBox.modal-slide .modal-inner-wrap .modal-content .catalog-product-view .column.main .product-info-main > div.price-box.price-tier_price {
+margin-bottom: 0;
+}
+.success-ajax--popup .ajax_cart-popup .popup__column .popup__column--result .product-confirm-detail .product-confirm-name {
+line-height: 1;
+}
+.product-image-photo { 
+width: 100%;
+}
+.cms-index-index .column.main {
+    padding-bottom: 0;
+}
+.widget .product-image-photo {
+width: 100%;
+}
+.modal-popup.confirm .modal-inner-wrap .modal-content > div {
+    font-weight: 500;
+    font-size: 15px !important;
+    line-height: 1.42857143;
+}
+.success-ajax--popup .ajax_cart-popup .popup__column .popup__table-col {
+    padding-right: 20px !important;
+}]]></custom_style>
+		</font_style>
+	</fbuilder>
+	<themesettings>
+		<general>
+			<color_primary><![CDATA[#a6c76c]]></color_primary>
+		</general>
+		<header>
+			<top_header_background_color><![CDATA[]]></top_header_background_color>
+		</header>
+		<main>
+			<link_hover_color><![CDATA[#a6c76c]]></link_hover_color>
+			<primary_button_background_color><![CDATA[#a6c76c]]></primary_button_background_color>
+			<primary_button_background_hover_color><![CDATA[#92b25a]]></primary_button_background_hover_color>
+			<primary_button_border_color><![CDATA[#a6c76c]]></primary_button_border_color>
+			<primary_button_border_hover_color><![CDATA[#92b25a]]></primary_button_border_hover_color>
+			<primary_button_text_color><![CDATA[#ffffff]]></primary_button_text_color>
+			<primary_button_text_hover_color><![CDATA[#ffffff]]></primary_button_text_hover_color>
+		</main>
+	</themesettings>
+</page>
